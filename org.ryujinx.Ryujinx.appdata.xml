@@ -33,6 +33,18 @@
             <caption>Main screen</caption>
             <image>https://raw.githubusercontent.com/Ryujinx/Ryujinx-Website/master/static/public/shell_fullsize.png</image>
         </screenshot>
+        <screenshot>
+            <caption>The Legend of Zelda: Breath of the Wild running in fullscreen on Ryujinx</caption>
+            <image>https://raw.githubusercontent.com/flathub/org.ryujinx.Ryujinx/master/screenshots/01.jpg</image>
+        </screenshot>
+        <screenshot>
+            <caption>Metroid Dread running in fullscreen on Ryujinx</caption>
+            <image>https://raw.githubusercontent.com/flathub/org.ryujinx.Ryujinx/master/screenshots/02.jpg</image>
+        </screenshot>
+        <screenshot>
+            <caption>Pokémon Legends: Arceus in fullscreen on Ryujinx</caption>
+            <image>https://raw.githubusercontent.com/flathub/org.ryujinx.Ryujinx/master/screenshots/03.jpg</image>
+        </screenshot>
     </screenshots>
     <releases>
         <release version="1.1.69" date="2022-03-12"/>
