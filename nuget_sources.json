@@ -99,10 +99,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/libhac/0.16.0/libhac.0.16.0.nupkg",
-        "sha512": "fee1728e05559f7f48e6551c84b0b46895533a5d4707928d40524ef2a295c0782186c3ae770a04c71035c09a7d5490dbfb398d48c988c509e2e355f89dbeea81",
+        "url": "https://api.nuget.org/v3-flatcontainer/libhac/0.16.1/libhac.0.16.1.nupkg",
+        "sha512": "af3479a904bf494abb1e82a77873bb0c361b63537ce12cd7ff277e8e76f714d677964bf5dbe204f4aad3be105eca21c5484e4b5ca94ceab9414a38c482b1e828",
         "dest": "nuget-sources",
-        "dest-filename": "libhac.0.16.0.nupkg"
+        "dest-filename": "libhac.0.16.1.nupkg"
     },
     {
         "type": "file",
