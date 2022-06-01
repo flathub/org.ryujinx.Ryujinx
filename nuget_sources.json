@@ -162,6 +162,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/runtime.win7-x64.runtime.native.system.io.compression/4.3.0/runtime.win7-x64.runtime.native.system.io.compression.4.3.0.nupkg",
+        "sha512": "892d1791458f9a3901a72630af8a2aa3ffad827da90abca8cca9c972d202f809e6249eb8e06a4b79bf61a09fb60589e923c52a8a5300274de04557aa2992b2ac",
+        "dest": "nuget-sources",
+        "dest-filename": "runtime.win7-x64.runtime.native.system.io.compression.4.3.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/runtime.any.system.runtime.interopservices/4.3.0/runtime.any.system.runtime.interopservices.4.3.0.nupkg",
         "sha512": "70eeb2469726d092bb95568e51ba5cfdd1cc07a9e65077e2b6dd5b7c8b164d4b45c749ef4a52f45928f63a27e8accdb83b861ea73c9ad3d42dc38e6afdbd0e8c",
         "dest": "nuget-sources",
@@ -509,6 +516,13 @@
         "sha512": "13f96f49f3053ed35f94081d33a02e3d4f096d976a752a06a54eba1bb4ab76e0aa76b1723df95aaaa57880dd9dd21ac2069bbdd876a8aa950fe5dfa0f48b5cc7",
         "dest": "nuget-sources",
         "dest-filename": "system.codedom.4.4.0.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/runtime.win7.system.private.uri/4.3.0/runtime.win7.system.private.uri.4.3.0.nupkg",
+        "sha512": "4fd1c04141e6ee4f5fe0a906e7362651afd5cb995cd9fcd1049927a732b071f827bb962df1ea4f3630f3c4e928a0c1911fd82c838e654208c771dee6398abb3d",
+        "dest": "nuget-sources",
+        "dest-filename": "runtime.win7.system.private.uri.4.3.0.nupkg"
     },
     {
         "type": "file",
