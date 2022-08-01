@@ -477,10 +477,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/spb/0.0.4-build17/spb.0.0.4-build17.nupkg",
-        "sha512": "de7574e0d80c3e9200806e5daa8f8720877ffaa7c4de2b90301d858ccfda5c178faace5336a43fbf0866a2b04091870d9aa303d596255bfcfd8f045194f41a67",
+        "url": "https://api.nuget.org/v3-flatcontainer/spb/0.0.4-build24/spb.0.0.4-build24.nupkg",
+        "sha512": "fb62ab52e148c966d10847a28b2c3e1c24deeab27039aacdb4ad53c2cf360ea605755fd43bb8e8f169ceb329eb3be1f53d4d1321130b1e372bb7a6513e3a4f04",
         "dest": "nuget-sources",
-        "dest-filename": "spb.0.0.4-build17.nupkg"
+        "dest-filename": "spb.0.0.4-build24.nupkg"
     },
     {
         "type": "file",
