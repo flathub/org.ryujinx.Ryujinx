@@ -1,12 +1,10 @@
 app-id: org.ryujinx.Ryujinx
 runtime: org.freedesktop.Platform
-runtime-version: '21.08'
+runtime-version: '22.08'
 sdk: org.freedesktop.Sdk
-sdk-extensions:
-- org.freedesktop.Sdk.Extension.dotnet6
 add-extensions:
   org.freedesktop.Platform.ffmpeg-full:
-    version: '21.08'
+    version: '22.08'
     directory: lib/ffmpeg
     add-ld-path: .
 finish-args:
@@ -23,8 +21,6 @@ modules:
 - name: Ryujinx
   buildsystem: simple
   build-options:
-    append-path: /usr/lib/sdk/dotnet6/bin
-    append-ld-library-path: /usr/lib/sdk/dotnet6/lib
     arch:
       x86_64:
         env:
@@ -39,14 +35,16 @@ modules:
       RYUJINX_TARGET_RELEASE_CHANNEL_NAME: master
   build-commands:
   - |
+    export PATH=$PATH:/run/build/Ryujinx/dotnet-sdk
     export RYUJINX_GIT_SHORT_HASH=$(git rev-parse --short HEAD)
+    export RUNTIME_FRAMEWORK_VERSION=$(find nuget-sources -name 'microsoft.netcore.app.host.linux-x64.*' | grep -oP '(\d.\d.\d+.nupkg)' | grep -oP '(\d.\d.\d+)')
     sed -r --in-place "s/\%\%RYUJINX_BUILD_VERSION\%\%/$RYUJINX_VERSION/g;" Ryujinx.Common/ReleaseInformations.cs
     sed -r --in-place "s/\%\%RYUJINX_BUILD_GIT_HASH\%\%/$RYUJINX_GIT_SHORT_HASH/g;" Ryujinx.Common/ReleaseInformations.cs
     sed -r --in-place "s/\%\%RYUJINX_TARGET_RELEASE_CHANNEL_NAME\%\%/$RYUJINX_TARGET_RELEASE_CHANNEL_NAME/g;" Ryujinx.Common/ReleaseInformations.cs
     sed -r --in-place "s/\%\%RYUJINX_TARGET_RELEASE_CHANNEL_OWNER\%\%/$RYUJINX_TARGET_RELEASE_CHANNEL_OWNER/g;" Ryujinx.Common/ReleaseInformations.cs
     sed -r --in-place "s/\%\%RYUJINX_TARGET_RELEASE_CHANNEL_REPO\%\%/$RYUJINX_TARGET_RELEASE_CHANNEL_REPO/g;" Ryujinx.Common/ReleaseInformations.cs
     mkdir -p /app/bin
-    dotnet publish -c Release -r $RUNTIME /p:DebugType=embedded Ryujinx /p:Version=$RYUJINX_VERSION /p:SourceRevisionId=$RYUJINX_GIT_SHORT_HASH /p:ExtraDefineConstants=DISABLE_UPDATER --self-contained --source nuget-sources
+    dotnet publish -c Release -r $RUNTIME /p:DebugType=embedded Ryujinx /p:Version=$RYUJINX_VERSION /p:SourceRevisionId=$RYUJINX_GIT_SHORT_HASH /p:ExtraDefineConstants=DISABLE_UPDATER /p:RuntimeFrameworkVersion=$RUNTIME_FRAMEWORK_VERSION --self-contained --source nuget-sources
     if [ $? -ne 0 ]; then
         exit 1;
     fi;
@@ -60,6 +58,16 @@ modules:
     install -Dm644 distribution/linux/ryujinx.desktop /app/share/applications/$FLATPAK_ID.desktop
     desktop-file-edit --set-key="Exec" --set-value="ryujinx-wrapper %f" /app/share/applications/$FLATPAK_ID.desktop
   sources:
+  - type: archive
+    only-arches: [x86_64]
+    dest: dotnet-sdk
+    url: https://dotnetcli.blob.core.windows.net/dotnet/Sdk/6.0.403/dotnet-sdk-6.0.403-linux-x64.tar.gz
+    sha256: e0e751e978d6024c8c75620e0f35f086534d2e81cd26f2fc0ed01423d5e99e19
+    x-checker-data:
+      type: html
+      url: https://dotnetcli.blob.core.windows.net/dotnet/Sdk/6.0/latest.version
+      version-pattern: ^([\d\.a-z-]+)$
+      url-template: https://dotnetcli.blob.core.windows.net/dotnet/Sdk/$version/dotnet-sdk-$version-linux-x64.tar.gz
   - nuget_sources.json
   - type: git
     url: https://github.com/Ryujinx/Ryujinx.git
