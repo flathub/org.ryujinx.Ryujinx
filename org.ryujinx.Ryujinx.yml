@@ -29,7 +29,7 @@ modules:
       PKG_CONFIG_PATH: /app/lib/pkgconfig:/app/share/pkgconfig:/usr/lib/pkgconfig:/usr/share/pkgconfig:/usr/lib/sdk/dotnet6/lib/pkgconfig
       DOTNET_CLI_TELEMETRY_OPTOUT: 'true'
       DOTNET_SKIP_FIRST_TIME_EXPERIENCE: 'true'
-      RYUJINX_VERSION: 1.1.338
+      RYUJINX_VERSION: 1.1.339
       RYUJINX_TARGET_RELEASE_CHANNEL_OWNER: flathub
       RYUJINX_TARGET_RELEASE_CHANNEL_REPO: org.ryujinx.Ryujinx
       RYUJINX_TARGET_RELEASE_CHANNEL_NAME: master
@@ -59,7 +59,8 @@ modules:
     desktop-file-edit --set-key="Exec" --set-value="ryujinx-wrapper %f" /app/share/applications/$FLATPAK_ID.desktop
   sources:
   - type: archive
-    only-arches: [x86_64]
+    only-arches:
+    - x86_64
     dest: dotnet-sdk
     url: https://dotnetcli.blob.core.windows.net/dotnet/Sdk/6.0.403/dotnet-sdk-6.0.403-linux-x64.tar.gz
     sha256: e0e751e978d6024c8c75620e0f35f086534d2e81cd26f2fc0ed01423d5e99e19
@@ -71,7 +72,7 @@ modules:
   - nuget_sources.json
   - type: git
     url: https://github.com/Ryujinx/Ryujinx.git
-    commit: 647de4cd31a82f39d23f92ea4377eeae5817b6c2
+    commit: c6d05301aae7509ea6a1ec29d39a72bac94d80b0
   - type: file
     path: ryujinx-wrapper
   - type: file
