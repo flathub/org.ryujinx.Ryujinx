@@ -883,10 +883,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sharpziplib/1.3.3/sharpziplib.1.3.3.nupkg",
-        "sha512": "5f6996e38a31861449a493b9387e91097abe06f3ca936e618e6b914091699b7319bda7e392a532a96c06287e9b3c28786183c5fbc212ac2bbdd10809151e6dbb",
+        "url": "https://api.nuget.org/v3-flatcontainer/sharpziplib/1.4.1/sharpziplib.1.4.1.nupkg",
+        "sha512": "3f051f41f91577291da0d317d210547752251aae07f5060c1f8ff71917477f44ade9674f9862d6ce76d3c2a7a57b700165ee573286054d6dee1ea825f383f59e",
         "dest": "nuget-sources",
-        "dest-filename": "sharpziplib.1.3.3.nupkg"
+        "dest-filename": "sharpziplib.1.4.1.nupkg"
     },
     {
         "type": "file",
