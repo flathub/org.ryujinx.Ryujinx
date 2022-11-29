@@ -295,17 +295,17 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.codedom/7.0.0/system.codedom.7.0.0.nupkg",
+        "sha512": "eb3d7dece2b09817d0e3606f8a2c0e0e94a0fc928f18ae5dd7d5c768606f01fe75c9d70d047c8f44f0ade90a133c77c00f9bce6cb88f09902a9d503ab2cbccc3",
+        "dest": "nuget-sources",
+        "dest-filename": "system.codedom.7.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.codedom/4.4.0/system.codedom.4.4.0.nupkg",
         "sha512": "13f96f49f3053ed35f94081d33a02e3d4f096d976a752a06a54eba1bb4ab76e0aa76b1723df95aaaa57880dd9dd21ac2069bbdd876a8aa950fe5dfa0f48b5cc7",
         "dest": "nuget-sources",
         "dest-filename": "system.codedom.4.4.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.codedom/6.0.0/system.codedom.6.0.0.nupkg",
-        "sha512": "2b911b7c9bc524c86562a26547dfc92a8c774ed5937993a4a22e8a9ca1b146151aeaeaf15e4271ff6fe6cf20af634815aa1485a5a4c48d24acf39b2a6bc3cf27",
-        "dest": "nuget-sources",
-        "dest-filename": "system.codedom.6.0.0.nupkg"
     },
     {
         "type": "file",
@@ -918,10 +918,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.management/6.0.0/system.management.6.0.0.nupkg",
-        "sha512": "d98847c56d026a1cb6bac6b2dfb34aa9976b86754217eb80063cda76c391dee54a0f1accf19e1a76dedb7e1c63f815bcbb6c81380a76f8bd4c58680773601a43",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.management/7.0.0/system.management.7.0.0.nupkg",
+        "sha512": "d0469d2a5ed07e7345ce759276c92cf30bb9d5680db68e1613917793d698dd1db8301361fb33970bae77ad0f506d1ae7a56f96ea0b5d854d352f58e69bbbda7f",
         "dest": "nuget-sources",
-        "dest-filename": "system.management.6.0.0.nupkg"
+        "dest-filename": "system.management.7.0.0.nupkg"
     },
     {
         "type": "file",
