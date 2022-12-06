@@ -50,13 +50,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.4/system.memory.4.5.4.nupkg",
-        "sha512": "8ece5491eb0fe332bc190f40cf76b3beee0c5f996325034861be221fdb0ff02fd59e4f7020b3c4a1f29a457f76ff76c4c95d46d38555e4f48c7a3bf172d87966",
-        "dest": "nuget-sources",
-        "dest-filename": "system.memory.4.5.4.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
         "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
@@ -162,10 +155,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.2.0/microsoft.codeanalysis.common.4.2.0.nupkg",
-        "sha512": "579adf4d1f1ecb6461788bc29184c09e6f9bf1de047bfa234160fb0b95a931061f89e3bbebaf13d89faafd65b9bad31bcbb3db755de5e20ae8b5e7b9e7a2507c",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.4.0/microsoft.codeanalysis.common.4.4.0.nupkg",
+        "sha512": "564fe62e3a4b98770b5bdcc1ca119189ba96e3c52df9c5f5d150de8b3d1bf6e058ac7a3c5cd85f6fc9db3ec91e0666d93566c763a5b2913b3c58589f557a6d29",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.common.4.2.0.nupkg"
+        "dest-filename": "microsoft.codeanalysis.common.4.4.0.nupkg"
     },
     {
         "type": "file",
@@ -218,10 +211,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.2.0/microsoft.codeanalysis.csharp.4.2.0.nupkg",
-        "sha512": "d54de9b27a4632fd45982e2094c37db3a39425447f79332c289cbd0b8c3f163a05a82d6679b1cdc37ce19cfa701e99070eaddaed15f9e2afd0a5b8beac826465",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.4.0/microsoft.codeanalysis.csharp.4.4.0.nupkg",
+        "sha512": "fe0f852202c1934df0a5fe5aae60f303685035a93b9ea955c326dc0e53d8d1fd2469dfa813cc0a235b9668fb642a56a18b63eda6ad5fccb58a694abb5fb8953b",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.csharp.4.2.0.nupkg"
+        "dest-filename": "microsoft.codeanalysis.csharp.4.4.0.nupkg"
     },
     {
         "type": "file",
@@ -799,10 +792,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.collections.immutable/5.0.0/system.collections.immutable.5.0.0.nupkg",
-        "sha512": "726f8db7d179714cf0efeb0fc02fcebe7b4755762902e391e77cf78671dd5d5f364c7cf4ce3545b51cc7f37327d12d1500ba19f4b934f0e8bb69a6a347c0bbfd",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg",
+        "sha512": "f8036412e384c5c5af6d28f4eab2543207d2ebbb16c47b70f6c471bc5aa4b9f44404c47d776d295191f20a89caa898abd73a2304dcaf77979174ced2d9160169",
         "dest": "nuget-sources",
-        "dest-filename": "system.collections.immutable.5.0.0.nupkg"
+        "dest-filename": "system.collections.immutable.6.0.0.nupkg"
     },
     {
         "type": "file",
