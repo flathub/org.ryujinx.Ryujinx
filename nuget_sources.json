@@ -358,10 +358,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg",
-        "sha512": "5e274ace996c3eba63099ed5116f9dc39f69f684f7c1e7623c28c3c73988b75c67dfcc929a50a761f0222df243dd540720a6e588e91dfa784f81bfce7a893875",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg",
+        "sha512": "18ee925b1ff0499205bf13a7ebb63a3a2206773f491828390910c36d2000bc10d079915bc9bbbdb043946fdc3fbd4950bfe0365da91315983d520d70fad81b59",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.win32.systemevents.6.0.0.nupkg"
+        "dest-filename": "microsoft.win32.systemevents.7.0.0.nupkg"
     },
     {
         "type": "file",
@@ -1219,10 +1219,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg",
-        "sha512": "d61f0a3e01c3eac15f13fc1ba04a2c7ce4eac956400b2faa361fecabd3836d49d5bd344f3985ee3d94cdc3f6a72b8e07e423cdb2965b4f5ca2222b5de32988e4",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg",
+        "sha512": "d1325de54dba8110e019afeba800601c2e4e0408b297b326de92333e029fa663d7150f021555b21a2fb89a411a08aef5e5588e043914da90b69c088fba72f0ed",
         "dest": "nuget-sources",
-        "dest-filename": "system.drawing.common.6.0.0.nupkg"
+        "dest-filename": "system.drawing.common.7.0.0.nupkg"
     },
     {
         "type": "file",
