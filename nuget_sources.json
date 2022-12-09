@@ -792,13 +792,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/ryujinx.graphics.nvdec.dependencies.osx/5.0.1/ryujinx.graphics.nvdec.dependencies.osx.5.0.1.nupkg",
-        "sha512": "8db51fecc5b3ead913ab5e529db6d4aaec9f79256d04d1f46d662facccbdfbfa4b3accb5fde11b9b9e105b5752d55a7b4c73f059125c7a12955fe58272f001e9",
-        "dest": "nuget-sources",
-        "dest-filename": "ryujinx.graphics.nvdec.dependencies.osx.5.0.1.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg",
         "sha512": "f8036412e384c5c5af6d28f4eab2543207d2ebbb16c47b70f6c471bc5aa4b9f44404c47d776d295191f20a89caa898abd73a2304dcaf77979174ced2d9160169",
         "dest": "nuget-sources",
@@ -1226,10 +1219,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/ryujinx.graphics.nvdec.dependencies/5.0.1-build10/ryujinx.graphics.nvdec.dependencies.5.0.1-build10.nupkg",
-        "sha512": "b3899cd05981053998ee14a9ade58617d0302e1151bd566fc9e6809638fd5079fd7b95a0db95c25d5047be2740646a95231931f293cc7ce7c3d6c2a06f3aa442",
+        "url": "https://api.nuget.org/v3-flatcontainer/ryujinx.graphics.nvdec.dependencies/5.0.1-build12/ryujinx.graphics.nvdec.dependencies.5.0.1-build12.nupkg",
+        "sha512": "5b289861ecd9e9e73153b25d2e706b0862df57d372a0799a4d09095b82c2e6d07da8ccf8ba5ae7ce97afde1cf3d10646b24fb8391cb5ae9cbe8c2a043f8f8a4f",
         "dest": "nuget-sources",
-        "dest-filename": "ryujinx.graphics.nvdec.dependencies.5.0.1-build10.nupkg"
+        "dest-filename": "ryujinx.graphics.nvdec.dependencies.5.0.1-build12.nupkg"
     },
     {
         "type": "file",
