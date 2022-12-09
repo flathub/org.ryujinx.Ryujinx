@@ -358,13 +358,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg",
-        "sha512": "18ee925b1ff0499205bf13a7ebb63a3a2206773f491828390910c36d2000bc10d079915bc9bbbdb043946fdc3fbd4950bfe0365da91315983d520d70fad81b59",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.win32.systemevents.7.0.0.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.debian.8-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg",
         "sha512": "b2cf809fe50c4b46bd6f2372265cd3059622550123afceb5dbb2410906c07a7f47bae4273584d29253d5e7a63a17c68c7ba0434608bbc8fd4d00e479b2f128ff",
         "dest": "nuget-sources",
@@ -1209,13 +1202,6 @@
         "sha512": "d40d6e9d55e57acdf04132bcb8ae8abf1abb3483620cde969c78c6c393a9936abf742c1dcf66288e6e9dffcb399a880ee3c11540ac140cb32e20b41365aaf35e",
         "dest": "nuget-sources",
         "dest-filename": "system.xml.readerwriter.4.0.11.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg",
-        "sha512": "d1325de54dba8110e019afeba800601c2e4e0408b297b326de92333e029fa663d7150f021555b21a2fb89a411a08aef5e5588e043914da90b69c088fba72f0ed",
-        "dest": "nuget-sources",
-        "dest-filename": "system.drawing.common.7.0.0.nupkg"
     },
     {
         "type": "file",
