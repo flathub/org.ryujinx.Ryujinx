@@ -1205,10 +1205,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/ryujinx.graphics.nvdec.dependencies/5.0.1-build12/ryujinx.graphics.nvdec.dependencies.5.0.1-build12.nupkg",
-        "sha512": "5b289861ecd9e9e73153b25d2e706b0862df57d372a0799a4d09095b82c2e6d07da8ccf8ba5ae7ce97afde1cf3d10646b24fb8391cb5ae9cbe8c2a043f8f8a4f",
+        "url": "https://api.nuget.org/v3-flatcontainer/ryujinx.graphics.nvdec.dependencies/5.0.1-build13/ryujinx.graphics.nvdec.dependencies.5.0.1-build13.nupkg",
+        "sha512": "2b3f0627e8a74a80971c50e01eec9b1a97fab47f4ce0a6e6048b08297be99b7a1a95635eabb6989eecd45a53be42111c03a7902d71162a15be3b1219df16e49c",
         "dest": "nuget-sources",
-        "dest-filename": "ryujinx.graphics.nvdec.dependencies.5.0.1-build12.nupkg"
+        "dest-filename": "ryujinx.graphics.nvdec.dependencies.5.0.1-build13.nupkg"
     },
     {
         "type": "file",
