@@ -1233,10 +1233,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/ryujinx.sdl2-cs/2.24.2-build21/ryujinx.sdl2-cs.2.24.2-build21.nupkg",
-        "sha512": "43ddb0660ccae42616d5f2205ef399eea21e822a96e3de2e7ca7e0885ea6a77fd3a8fc75b118c645c54c57ff3e48c184a18a7e3314f9efb2a40b070780a6a9cd",
+        "url": "https://api.nuget.org/v3-flatcontainer/ryujinx.sdl2-cs/2.26.1-build23/ryujinx.sdl2-cs.2.26.1-build23.nupkg",
+        "sha512": "8112accffc66185e5dad3648cdf062de1a867c762fbed2a078c87fd2748b7604b777e7bf7a721f87cfa1d32e8970a015d38950ec2aa7d1e05d24a7a776daffd5",
         "dest": "nuget-sources",
-        "dest-filename": "ryujinx.sdl2-cs.2.24.2-build21.nupkg"
+        "dest-filename": "ryujinx.sdl2-cs.2.26.1-build23.nupkg"
     },
     {
         "type": "file",
