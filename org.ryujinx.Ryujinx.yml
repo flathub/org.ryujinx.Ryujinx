@@ -22,7 +22,7 @@ modules:
   buildsystem: simple
   build-options:
     no-debuginfo: true
-    no-debuginfo-compression: true,
+    no-debuginfo-compression: true
     strip: false
     arch:
       x86_64:
