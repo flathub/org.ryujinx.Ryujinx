@@ -47,6 +47,7 @@
         </screenshot>
     </screenshots>
     <releases>
+        <release version="1.1.523" date="2023-01-09"/>
         <release version="1.1.522" date="2023-01-09"/>
         <release version="1.1.521" date="2023-01-08"/>
         <release version="1.1.520" date="2023-01-08"/>
