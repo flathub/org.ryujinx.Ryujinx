@@ -659,10 +659,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.analyzers/3.3.3/microsoft.codeanalysis.analyzers.3.3.3.nupkg",
-        "sha512": "0d4896db8aff9d731c5b1c8f73a4b37460c3f08080fbeac0ecf169abf5bdff9c9a994778f453816b888e939d9d0d615245c91a2e4ba31f85d2ea8de222767104",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.analyzers/3.3.4/microsoft.codeanalysis.analyzers.3.3.4.nupkg",
+        "sha512": "23e462c3affa5a33480b276888da438cdfc618feeee17b0be95b08f651bf3a316e7c7ddf96f484cbf7f1361183546c195b0abfe41967a97f8b1f676685e68f7e",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.analyzers.3.3.3.nupkg"
+        "dest-filename": "microsoft.codeanalysis.analyzers.3.3.4.nupkg"
     },
     {
         "type": "file",
