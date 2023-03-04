@@ -183,10 +183,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.4.0/microsoft.codeanalysis.common.4.4.0.nupkg",
-        "sha512": "564fe62e3a4b98770b5bdcc1ca119189ba96e3c52df9c5f5d150de8b3d1bf6e058ac7a3c5cd85f6fc9db3ec91e0666d93566c763a5b2913b3c58589f557a6d29",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.5.0/microsoft.codeanalysis.common.4.5.0.nupkg",
+        "sha512": "61f1aa2061217670fab3e1043e5068b72aed43907866195c693211407e2b3ebd6cd9762ed0b3e9ef06965a33d3ce3fb09c88f3c900ad32feb0485922575a41e3",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.common.4.4.0.nupkg"
+        "dest-filename": "microsoft.codeanalysis.common.4.5.0.nupkg"
     },
     {
         "type": "file",
@@ -239,10 +239,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.4.0/microsoft.codeanalysis.csharp.4.4.0.nupkg",
-        "sha512": "fe0f852202c1934df0a5fe5aae60f303685035a93b9ea955c326dc0e53d8d1fd2469dfa813cc0a235b9668fb642a56a18b63eda6ad5fccb58a694abb5fb8953b",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.5.0/microsoft.codeanalysis.csharp.4.5.0.nupkg",
+        "sha512": "68d7df26baf9362ec2cabb3543d1f7a570b0f345053a23e8feeb5317c50ba392825bafb1710ebee5c929e762e749782fd11eaadb3b437224ebfccba08b985fcf",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.csharp.4.4.0.nupkg"
+        "dest-filename": "microsoft.codeanalysis.csharp.4.5.0.nupkg"
     },
     {
         "type": "file",
@@ -1492,10 +1492,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/5.0.0/system.reflection.metadata.5.0.0.nupkg",
-        "sha512": "3b74e3e491eee87a8410f5b9a2e556233d9919267f6a054da7a4c9c34b6916b07c77ea9ef8cceb5b7c3361e7394e502cc3c9a09247c6a06bb58509e82554e527",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/6.0.1/system.reflection.metadata.6.0.1.nupkg",
+        "sha512": "7ae13917018aee2c9074db134aaa27cad2d71072f7d80bb13dc16b1de16cec62503b064914d12d86326534c9ed29dbbaed5fcdab7f88b620ae1d1c5022b4673b",
         "dest": "nuget-sources",
-        "dest-filename": "system.reflection.metadata.5.0.0.nupkg"
+        "dest-filename": "system.reflection.metadata.6.0.1.nupkg"
     },
     {
         "type": "file",
