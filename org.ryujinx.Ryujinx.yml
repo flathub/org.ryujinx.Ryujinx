@@ -65,8 +65,8 @@ modules:
     only-arches:
     - x86_64
     dest: dotnet-sdk
-    url: https://dotnetcli.azureedge.net/dotnet/Sdk/7.0.201/dotnet-sdk-7.0.201-linux-x64.tar.gz
-    sha256: e74ccc69a299b0e9267f812ca6bd60eaa479dc5f844b3be68b04358a0f4e10f3
+    url: https://dotnetcli.azureedge.net/dotnet/Sdk/7.0.202/dotnet-sdk-7.0.202-linux-x64.tar.gz
+    sha256: 405f15e437582be260460f48eda9dfe613fd87b2557667f20d6ecfa34b09c221
     x-checker-data:
       type: rotating-url
       url: https://aka.ms/dotnet/7.0/dotnet-sdk-linux-x64.tar.gz
