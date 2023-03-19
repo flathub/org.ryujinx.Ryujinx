@@ -65,13 +65,12 @@ modules:
     only-arches:
     - x86_64
     dest: dotnet-sdk
-    url: https://dotnetcli.blob.core.windows.net/dotnet/Sdk/7.0.201/dotnet-sdk-7.0.201-linux-x64.tar.gz
+    url: https://dotnetcli.azureedge.net/dotnet/Sdk/7.0.201/dotnet-sdk-7.0.201-linux-x64.tar.gz
     sha256: e74ccc69a299b0e9267f812ca6bd60eaa479dc5f844b3be68b04358a0f4e10f3
     x-checker-data:
-      type: html
-      url: https://dotnetcli.blob.core.windows.net/dotnet/Sdk/7.0/latest.version
-      version-pattern: ^([\d\.a-z-]+)$
-      url-template: https://dotnetcli.blob.core.windows.net/dotnet/Sdk/$version/dotnet-sdk-$version-linux-x64.tar.gz
+      type: rotating-url
+      url: https://aka.ms/dotnet/7.0/dotnet-sdk-linux-x64.tar.gz
+      pattern: https://dotnetcli.azureedge.net/dotnet/Sdk/^([\d\.a-z-]+)$/dotnet-sdk-^([\d\.a-z-]+)$-linux-x64.tar.gz
   - nuget_sources.json
   - type: git
     url: https://github.com/Ryujinx/Ryujinx.git
