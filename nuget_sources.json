@@ -204,10 +204,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.win-x64/7.0.4/microsoft.netcore.app.host.win-x64.7.0.4.nupkg",
-        "sha512": "ed7415e9979477ff4bc607c5b71c0332abe1feea5f1a0a764e55fbcb2254476930e907e20a165840f262de5fa71f790b62ca3d0d0e6cb595b0b9b4bbc0f1ccb7",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.win-x64/7.0.5/microsoft.netcore.app.host.win-x64.7.0.5.nupkg",
+        "sha512": "ece7eff55eabaa5c7ed5fcd8fa5058bf42796a48065c386a449cd23633b5555184e47ccac860d0b9f1502e5e0b1b86b89131a8676b3710944e38ffb90b9901ff",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.host.win-x64.7.0.4.nupkg"
+        "dest-filename": "microsoft.netcore.app.host.win-x64.7.0.5.nupkg"
     },
     {
         "type": "file",
@@ -477,10 +477,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.runtime.osx-x64/7.0.4/microsoft.aspnetcore.app.runtime.osx-x64.7.0.4.nupkg",
-        "sha512": "1a4c8f1bc674800bd8f8a7775c90d0153730bcec356e74e09283995d913102f31800544bf780a63b26e55b27bf07e715ec6fb376d7182315128a178343fc6118",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.runtime.osx-x64/7.0.5/microsoft.aspnetcore.app.runtime.osx-x64.7.0.5.nupkg",
+        "sha512": "c95654270b5a34fcee037cb0d718cea4b49db7778eac663f2cb9988a799d91e5fe8079b66e1f653b3fa725658edab993a9081f2cdaf3d0976a0fad7839c3813c",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.app.runtime.osx-x64.7.0.4.nupkg"
+        "dest-filename": "microsoft.aspnetcore.app.runtime.osx-x64.7.0.5.nupkg"
     },
     {
         "type": "file",
@@ -680,10 +680,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.osx-x64/7.0.4/microsoft.netcore.app.host.osx-x64.7.0.4.nupkg",
-        "sha512": "5fb432c5d39e467db41903af4c15a4af46775653f72aa9bb34fd7a903bf81bd6c231cda46d02abdbc4c2a3407ed0d6098a8fdebf450131ea7ae76e09f7e65d5a",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.osx-x64/7.0.5/microsoft.netcore.app.host.osx-x64.7.0.5.nupkg",
+        "sha512": "fc2361535a90a4d1da8bd93c633a66dd4db306ae282ac9bfc229548de4f6a5d21c3acd8f0c640072e512f1e8530c50178597441e79e7e9b1a5f5584735600ed3",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.host.osx-x64.7.0.4.nupkg"
+        "dest-filename": "microsoft.netcore.app.host.osx-x64.7.0.5.nupkg"
     },
     {
         "type": "file",
@@ -694,10 +694,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.linux-x64/7.0.4/microsoft.netcore.app.runtime.linux-x64.7.0.4.nupkg",
-        "sha512": "abe7f685ec04d01a51d6dcd4e3f6d5aa4c54f63f12b5e453fe04204a3d60a51e3c80f9ade11901226f49ae39afaa12e859c554065b910ab388c286f5f77dc7c8",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.linux-x64/7.0.5/microsoft.netcore.app.runtime.linux-x64.7.0.5.nupkg",
+        "sha512": "3b27892f653aaa797fdef286ad57365dcb1a8ce403e0baa924f22b76f8a686a502024022d5c9d04548fba16e38ebc4395b732b9605b2a346b1cb050d7c52d53e",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.runtime.linux-x64.7.0.4.nupkg"
+        "dest-filename": "microsoft.netcore.app.runtime.linux-x64.7.0.5.nupkg"
     },
     {
         "type": "file",
@@ -897,10 +897,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.osx-x64/7.0.4/microsoft.netcore.app.runtime.osx-x64.7.0.4.nupkg",
-        "sha512": "ea9a41132067bb5627fde0dce0c6a975675ba0a75dff069f422b16a74fd12671425106facb6192d2fdc09cf6532ff336752b926a05d234fb2ff8a29e4f821221",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.osx-x64/7.0.5/microsoft.netcore.app.runtime.osx-x64.7.0.5.nupkg",
+        "sha512": "1a95793a5349da6169ab79efd7bd7ab612469abbdc922f5440b3c7db9f17e3e482c7c519443b3ec25d547c4767b9641251c8d669fd0c169f70056db9b5ae91b4",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.runtime.osx-x64.7.0.4.nupkg"
+        "dest-filename": "microsoft.netcore.app.runtime.osx-x64.7.0.5.nupkg"
     },
     {
         "type": "file",
@@ -1205,10 +1205,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.runtime.win-x64/7.0.4/microsoft.aspnetcore.app.runtime.win-x64.7.0.4.nupkg",
-        "sha512": "3bb41493ccccd39c7ff161c72b858a3306a5d7bf9e6cb6f31d9f2a71eadfa68dd2eec26e33cac4314d0fd61f0637611570a97183db31d4198358a285e116c721",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.runtime.win-x64/7.0.5/microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg",
+        "sha512": "ee5ff3e59d8cb540974500234adbc9173d6d9c3d65640c89b524a9f4174f23850ed594fa58ae0d9b6d75d4aee1fab82328f185e890157ffc65f8665c5499f611",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.app.runtime.win-x64.7.0.4.nupkg"
+        "dest-filename": "microsoft.aspnetcore.app.runtime.win-x64.7.0.5.nupkg"
     },
     {
         "type": "file",
@@ -1289,10 +1289,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.win-x64/7.0.4/microsoft.netcore.app.runtime.win-x64.7.0.4.nupkg",
-        "sha512": "8723357afad1d4b4c68032d6dfa9c2a64caf8a6221049b60d454c19b83df5f9e4e5a18d92ad3923abf695f19805ebf5e037a6f3e804867d302291e05800e4a1b",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.runtime.win-x64/7.0.5/microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg",
+        "sha512": "f87d56ee2eccbabf6f3c0ae06da60a15576dc0575d95eb5ded1e8a68052c94317f206b19f659608e0a6de3c83dbf19fc42950953053663998a80c007aff1f56d",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.runtime.win-x64.7.0.4.nupkg"
+        "dest-filename": "microsoft.netcore.app.runtime.win-x64.7.0.5.nupkg"
     },
     {
         "type": "file",
@@ -1443,10 +1443,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.runtime.linux-x64/7.0.4/microsoft.aspnetcore.app.runtime.linux-x64.7.0.4.nupkg",
-        "sha512": "ddb8c86315dfb0a87b5ca7d54c9a948e797b6a25980f71bee473e58fc3aed4dafa1d2be83f3ce4e1b75cce1b531558e409935fcfecc3f177fd3a9503cd4e8c62",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.runtime.linux-x64/7.0.5/microsoft.aspnetcore.app.runtime.linux-x64.7.0.5.nupkg",
+        "sha512": "edf2e134549550574dc753a075e359871be6c0c881527a6242394171958617c345ddaa8c5fab5b1d4b180e384842960e37e3998459ee642189c7b6c68aa6d7d9",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.app.runtime.linux-x64.7.0.4.nupkg"
+        "dest-filename": "microsoft.aspnetcore.app.runtime.linux-x64.7.0.5.nupkg"
     },
     {
         "type": "file",
