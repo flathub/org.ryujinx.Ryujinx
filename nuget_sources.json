@@ -1,10 +1,10 @@
 [
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.management/7.0.0/system.management.7.0.0.nupkg",
-        "sha512": "d0469d2a5ed07e7345ce759276c92cf30bb9d5680db68e1613917793d698dd1db8301361fb33970bae77ad0f506d1ae7a56f96ea0b5d854d352f58e69bbbda7f",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.management/7.0.1/system.management.7.0.1.nupkg",
+        "sha512": "1d041f1c0cedceef34176fef4c5b71e77586e4063b22a0f6a5d9320822fa7e7643ac2f923a552bd031efb77dc29bb8aadbf0b824215a7085a7fac88ac96b8dc7",
         "dest": "nuget-sources",
-        "dest-filename": "system.management.7.0.0.nupkg"
+        "dest-filename": "system.management.7.0.1.nupkg"
     },
     {
         "type": "file",
