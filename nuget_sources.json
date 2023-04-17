@@ -211,10 +211,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/7.0.0/microsoft.extensions.dependencymodel.7.0.0.nupkg",
-        "sha512": "c575af9fc4ba02476519eb28ec00408f09707f0bcaec0a6ee2f1e226bf170c61ec390d8d4a1403650cf6afcead97e22befebf285c1444e696019fb4c215e33f8",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.extensions.dependencymodel/6.0.0/microsoft.extensions.dependencymodel.6.0.0.nupkg",
+        "sha512": "4222e75931c6e471e40966d3cb47ed73987b1bf9082d6753ef41a0ec6c6011df654847b540bc67accfe24b258fa2ea188be5c4e4458849afe7bff1d376e78789",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.extensions.dependencymodel.7.0.0.nupkg"
+        "dest-filename": "microsoft.extensions.dependencymodel.6.0.0.nupkg"
     },
     {
         "type": "file",
@@ -274,17 +274,17 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/6.0.0/system.text.encodings.web.6.0.0.nupkg",
+        "sha512": "0f26afeeaa709ea1f05ef87058408dd9df640c869d7398b2c9c270268ddf21a9208cd7d2bfa1f7fbd8a5ceab735dd22d470a3689627c9c4fadc0ea5fe76237fa",
+        "dest": "nuget-sources",
+        "dest-filename": "system.text.encodings.web.6.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/4.7.2/system.text.encodings.web.4.7.2.nupkg",
         "sha512": "c3acf16ffced4db6ac9e6677b29bd5cdd442de19a897a9e5e088156be7039df4c850f01ace18f61b7773c93edc9d9a3d9d11bb8f40d6ac24537bd5b4e024b423",
         "dest": "nuget-sources",
         "dest-filename": "system.text.encodings.web.4.7.2.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encodings.web/7.0.0/system.text.encodings.web.7.0.0.nupkg",
-        "sha512": "d164c15df021a99d18ed0c39b6b7c0290b7f948d8f09bf07140b47bae6403f1cb9a822c1504aabd7a6094367ad9fcf8ced1ea186b0662a51815ebbb37a3b0434",
-        "dest": "nuget-sources",
-        "dest-filename": "system.text.encodings.web.7.0.0.nupkg"
     },
     {
         "type": "file",
@@ -722,10 +722,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/silk.net.core/2.17.1/silk.net.core.2.17.1.nupkg",
-        "sha512": "682033e0777a8e68f5a6ed95d66f1a994e7bbf2d104fb5eed0085d979678391de178bc1a3fdf35515deacaa6d7a4e414e6b5480375041c87377da35b4c9da145",
+        "url": "https://api.nuget.org/v3-flatcontainer/silk.net.core/2.16.0/silk.net.core.2.16.0.nupkg",
+        "sha512": "9cea9e04ab772b40da0f48e5f7fede810ee7380bdec00fe98fa59bd2234664adec38ef63e7e0d6fa4cf83e0ecd6054901a814a28b9c804fbac33ff045cb9f3df",
         "dest": "nuget-sources",
-        "dest-filename": "silk.net.core.2.17.1.nupkg"
+        "dest-filename": "silk.net.core.2.16.0.nupkg"
     },
     {
         "type": "file",
@@ -883,10 +883,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/silk.net.vulkan/2.17.1/silk.net.vulkan.2.17.1.nupkg",
-        "sha512": "16881f58078d30bb47f015b006f3a3a2ccb79d4a415f3f9bc4b8a8180659cc3eb1c8285231992ac9d8859f3c031f81564a558ea51e1cde7f69ffba85ca1095d3",
+        "url": "https://api.nuget.org/v3-flatcontainer/silk.net.vulkan/2.16.0/silk.net.vulkan.2.16.0.nupkg",
+        "sha512": "b6f53b3d4d2cd4e8eed14a5d567de5195ff595d2649f441b09920d7bbaec48563a95554cf7289901f8bb394339a92b428a05ae913b4d2a45a7af61ad38e44fc8",
         "dest": "nuget-sources",
-        "dest-filename": "silk.net.vulkan.2.17.1.nupkg"
+        "dest-filename": "silk.net.vulkan.2.16.0.nupkg"
     },
     {
         "type": "file",
@@ -1219,10 +1219,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/silk.net.vulkan.extensions.khr/2.17.1/silk.net.vulkan.extensions.khr.2.17.1.nupkg",
-        "sha512": "7599794a2fe36042ad14d7e6d9b6b9786163456d6e3d2bd11a782891eaa76fc22ef32f4e7fafaf2ab9da4c256985f1c01dd6a5a6a606d3a19135def462ce4abd",
+        "url": "https://api.nuget.org/v3-flatcontainer/silk.net.vulkan.extensions.khr/2.16.0/silk.net.vulkan.extensions.khr.2.16.0.nupkg",
+        "sha512": "6b6365aa6246013c62408dcbc6c51818eae841a84c900f30ce4d163201386518b7f01ae10e003ae6a92e97cec9da287ca73c8665ab475666a503dc49f0790778",
         "dest": "nuget-sources",
-        "dest-filename": "silk.net.vulkan.extensions.khr.2.17.1.nupkg"
+        "dest-filename": "silk.net.vulkan.extensions.khr.2.16.0.nupkg"
     },
     {
         "type": "file",
@@ -1324,17 +1324,17 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.json/6.0.0/system.text.json.6.0.0.nupkg",
+        "sha512": "167b4ee8d1277a5d8bd6b4fbe0a3b3a708519235fb005ea98cafdd5b30e17758efeb0a87dcd068af289400d841f4d2cd24550df882d1927c47ec6ff4fb8781ff",
+        "dest": "nuget-sources",
+        "dest-filename": "system.text.json.6.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.text.json/4.7.2/system.text.json.4.7.2.nupkg",
         "sha512": "345d15c74a9ac6ddabeeba349b9ba027e48b423972984ff202ea74b5413dd502236817746a82485c840a0cfc818179b94548731db5f361b07a4d11bdda20f50f",
         "dest": "nuget-sources",
         "dest-filename": "system.text.json.4.7.2.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.json/7.0.0/system.text.json.7.0.0.nupkg",
-        "sha512": "2628eda57e6b44c8e2401624cf4c0f9265dabedec04eb408187e0aadf4278c038e8c7c6fc1082799f7a20e205e69c7788b44de323e82565f19436e7ffb5ab41f",
-        "dest": "nuget-sources",
-        "dest-filename": "system.text.json.7.0.0.nupkg"
     },
     {
         "type": "file",
@@ -1380,10 +1380,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/silk.net.vulkan.extensions.ext/2.17.1/silk.net.vulkan.extensions.ext.2.17.1.nupkg",
-        "sha512": "aca41c87a28e678c735248a2ac28a7c678e9d2036283d5e60b3f075acd76a9fa6061fa5cc4b4474ff6c7813686fb149968d80ce4de2142444790bb7e05cf0226",
+        "url": "https://api.nuget.org/v3-flatcontainer/silk.net.vulkan.extensions.ext/2.16.0/silk.net.vulkan.extensions.ext.2.16.0.nupkg",
+        "sha512": "1efe3177b98eec2457c6ee7ade30012580cf6077f6985ed76a9fb5ad358a9934cc9dd621bc1fdedcca90219f321e952344b898fdb5b23a59a6445e870d8d6a00",
         "dest": "nuget-sources",
-        "dest-filename": "silk.net.vulkan.extensions.ext.2.17.1.nupkg"
+        "dest-filename": "silk.net.vulkan.extensions.ext.2.16.0.nupkg"
     },
     {
         "type": "file",
