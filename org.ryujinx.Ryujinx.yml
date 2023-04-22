@@ -14,6 +14,7 @@ finish-args:
 - --socket=pulseaudio
 - --share=network
 - --filesystem=home:ro
+- --filesystem=xdg-pictures:rw
 - --filesystem=xdg-run/app/com.discordapp.Discord:create
 rename-icon: ryujinx
 command: ryujinx-wrapper
