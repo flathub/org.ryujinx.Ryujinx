@@ -176,10 +176,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.logging/6.30.0/microsoft.identitymodel.logging.6.30.0.nupkg",
-        "sha512": "ba2d9a1c9ccb6209a10a895a15eeb190a22dfbc6c51b04b97eba3d56e64c175f65ee402d139fedf604761fbd155984421e5712171e6d70a1dc53952d800c3895",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.logging/6.30.1/microsoft.identitymodel.logging.6.30.1.nupkg",
+        "sha512": "815ac78032deddfd91a3a8e5b67e80c255bd8e88bba2846428895514a274146bd852cf8ea8026114695d6e79b2f89ec446d4791de590313ac8705e743fc16289",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.identitymodel.logging.6.30.0.nupkg"
+        "dest-filename": "microsoft.identitymodel.logging.6.30.1.nupkg"
     },
     {
         "type": "file",
@@ -400,10 +400,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.identitymodel.tokens.jwt/6.30.0/system.identitymodel.tokens.jwt.6.30.0.nupkg",
-        "sha512": "f363d6f7a847f4b126bdabfa0ac16ea7c9d2d5a307ff69a12ee18b214d1965301adb53134f0bcf6a6b7dc55cf7ec094fe7a9dbe56069204eab846b04bd799eea",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.identitymodel.tokens.jwt/6.30.1/system.identitymodel.tokens.jwt.6.30.1.nupkg",
+        "sha512": "6e9a9ca1196fb7a9d506f85fa9c0b3053e6aa0165f988a72c4da444b2ac7a9400f57d14b994b820a0493a97dc6e587b1bb74e0c9fe348d5939000ba46b4d2b29",
         "dest": "nuget-sources",
-        "dest-filename": "system.identitymodel.tokens.jwt.6.30.0.nupkg"
+        "dest-filename": "system.identitymodel.tokens.jwt.6.30.1.nupkg"
     },
     {
         "type": "file",
@@ -1016,10 +1016,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.abstractions/6.30.0/microsoft.identitymodel.abstractions.6.30.0.nupkg",
-        "sha512": "fc4de7fbdbedefabb3c0f211d70106c7e3a4a3bb7c2821cc009c396b20fd55003b671d6bf6bf2655dc2ba8667440dd711da236150b2d8663bb3970a5bbe39482",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.abstractions/6.30.1/microsoft.identitymodel.abstractions.6.30.1.nupkg",
+        "sha512": "662a4bc69cdc1e23eab14a32470f77ae4ddfff6aa1df5356813e692b44240ca2a6a20a91e5f518478600e83af23c2f0a93457d2ef8206387f7bc166c73d58313",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.identitymodel.abstractions.6.30.0.nupkg"
+        "dest-filename": "microsoft.identitymodel.abstractions.6.30.1.nupkg"
     },
     {
         "type": "file",
@@ -1128,10 +1128,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.jsonwebtokens/6.30.0/microsoft.identitymodel.jsonwebtokens.6.30.0.nupkg",
-        "sha512": "57ae4ef2b68070162dfc9601ad91feb1594b001d07c7cb8e9b11fafe9faaba2c1ae6803a99c3f593ce1d80fe04014b5f695fec93ff6395c9cbb8d81544f5c4af",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.jsonwebtokens/6.30.1/microsoft.identitymodel.jsonwebtokens.6.30.1.nupkg",
+        "sha512": "c9f06651060f652f03ca11e77ecc03a95501a732eb158795489d574ed4f6e58ee5ef4fb98f0e85ae1dd23196bfbca2a5854f0878e868fafe02a99d1949cdcece",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.identitymodel.jsonwebtokens.6.30.0.nupkg"
+        "dest-filename": "microsoft.identitymodel.jsonwebtokens.6.30.1.nupkg"
     },
     {
         "type": "file",
@@ -1338,10 +1338,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.tokens/6.30.0/microsoft.identitymodel.tokens.6.30.0.nupkg",
-        "sha512": "180e12f9ac4bb5401d841e9af5fddb582e4fbaef25a06bc1c0b4a452df3b6ce9637b7f6af8eb72b7f3e2c487f0880e45b333b52e87e68b036b8d8d90c0bb64c1",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.identitymodel.tokens/6.30.1/microsoft.identitymodel.tokens.6.30.1.nupkg",
+        "sha512": "7922d5881b495cdb3320a3bd5726f9da7b8ae53db00cf3209672fb1c5a2aa49c9b78f6a8cc30a1c94ec263dabae9184d2b44948152dc1c8d5909288ff07d5295",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.identitymodel.tokens.6.30.0.nupkg"
+        "dest-filename": "microsoft.identitymodel.tokens.6.30.1.nupkg"
     },
     {
         "type": "file",
