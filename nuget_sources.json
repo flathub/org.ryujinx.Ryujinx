@@ -1212,10 +1212,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/ryujinx.graphics.vulkan.dependencies.moltenvk/1.2.0/ryujinx.graphics.vulkan.dependencies.moltenvk.1.2.0.nupkg",
-        "sha512": "d1fbf91712fcaadbd9151eb2dfe5cd1a58a0add3737053d5c53caebcb64165db1a542a2ab4d95a180d356abcc028a97491b91992cff5b1e80091758e54ba0c31",
+        "url": "https://api.nuget.org/v3-flatcontainer/ryujinx.graphics.vulkan.dependencies.moltenvk/1.2.3/ryujinx.graphics.vulkan.dependencies.moltenvk.1.2.3.nupkg",
+        "sha512": "2f4318a71a4e872cb011323f10703c5324187e56627e82194255c995cb0b4441ed1830182459971a44c34f6f3dcebd813304e45b34f95c09a23dd245ed3cde22",
         "dest": "nuget-sources",
-        "dest-filename": "ryujinx.graphics.vulkan.dependencies.moltenvk.1.2.0.nupkg"
+        "dest-filename": "ryujinx.graphics.vulkan.dependencies.moltenvk.1.2.3.nupkg"
     },
     {
         "type": "file",
