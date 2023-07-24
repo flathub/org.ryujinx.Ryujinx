@@ -190,10 +190,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.5.0/microsoft.codeanalysis.common.4.5.0.nupkg",
-        "sha512": "61f1aa2061217670fab3e1043e5068b72aed43907866195c693211407e2b3ebd6cd9762ed0b3e9ef06965a33d3ce3fb09c88f3c900ad32feb0485922575a41e3",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.6.0/microsoft.codeanalysis.common.4.6.0.nupkg",
+        "sha512": "3286b44eef9956b14c2e5d6927a686cb22d4a128b5b880c698bdddbc82db5bd89e82f91da00f9515fe1f16a5805b879f8da9932fa1ab25b5992ff997d030293e",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.common.4.5.0.nupkg"
+        "dest-filename": "microsoft.codeanalysis.common.4.6.0.nupkg"
     },
     {
         "type": "file",
@@ -309,10 +309,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.5.0/microsoft.codeanalysis.csharp.4.5.0.nupkg",
-        "sha512": "68d7df26baf9362ec2cabb3543d1f7a570b0f345053a23e8feeb5317c50ba392825bafb1710ebee5c929e762e749782fd11eaadb3b437224ebfccba08b985fcf",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.6.0/microsoft.codeanalysis.csharp.4.6.0.nupkg",
+        "sha512": "a375eced5de31a8f68e06a2c4d0515267f54b128bf1dba6ed368775b2f42987ae370ee0ab2e9b12b2c33a51a67e6fd7b08794d5e7f38df5a48653e179b51080d",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.csharp.4.5.0.nupkg"
+        "dest-filename": "microsoft.codeanalysis.csharp.4.6.0.nupkg"
     },
     {
         "type": "file",
@@ -694,10 +694,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/6.0.1/system.reflection.metadata.6.0.1.nupkg",
-        "sha512": "7ae13917018aee2c9074db134aaa27cad2d71072f7d80bb13dc16b1de16cec62503b064914d12d86326534c9ed29dbbaed5fcdab7f88b620ae1d1c5022b4673b",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/7.0.0/system.reflection.metadata.7.0.0.nupkg",
+        "sha512": "2d93c8ba1a78ceb90d25b7a3b82ae7c7f2452ad29f49ee8e1c60b2bcda19f8f6edf68689d42a586aef5faf9f1049fe5e8095ec9a4ab48a2cd2a950a8b7ec2c85",
         "dest": "nuget-sources",
-        "dest-filename": "system.reflection.metadata.6.0.1.nupkg"
+        "dest-filename": "system.reflection.metadata.7.0.0.nupkg"
     },
     {
         "type": "file",
@@ -939,10 +939,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/6.0.0/system.text.encoding.codepages.6.0.0.nupkg",
-        "sha512": "ec873a95ec517de2c5a5364ada30974ddd5e0fafef2ad2517609a1900b5059d35757536fd073805001fa68d5b56a3d4647010a96c9eb233b1d172a3b45fbe4a9",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
+        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
         "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.6.0.0.nupkg"
+        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
@@ -1023,10 +1023,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.collections.immutable/6.0.0/system.collections.immutable.6.0.0.nupkg",
-        "sha512": "f8036412e384c5c5af6d28f4eab2543207d2ebbb16c47b70f6c471bc5aa4b9f44404c47d776d295191f20a89caa898abd73a2304dcaf77979174ced2d9160169",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.collections.immutable/7.0.0/system.collections.immutable.7.0.0.nupkg",
+        "sha512": "f084afc9395d74b4f252c47b7d0e378e676d6b8b6033a68636b648b58805e3772dd22ff1ded05d3c8c8553d2e7685b29b753fe1cbb5a333f018abe6422a3ebfa",
         "dest": "nuget-sources",
-        "dest-filename": "system.collections.immutable.6.0.0.nupkg"
+        "dest-filename": "system.collections.immutable.7.0.0.nupkg"
     },
     {
         "type": "file",
