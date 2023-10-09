@@ -41,7 +41,8 @@ modules:
   - |
     export PATH=$PATH:/run/build/Ryujinx/dotnet-sdk
     export RYUJINX_GIT_SHORT_HASH=$(git rev-parse --short HEAD)
-    export RUNTIME_FRAMEWORK_VERSION=$(find nuget-sources -name 'microsoft.netcore.app.host.linux-x64.*' | grep -oP '(\d.\d.\d+.nupkg)' | grep -oP '(\d.\d.\d+)')
+    export RUNTIME_FRAMEWORK_VERSION=$(find nuget-sources -name 'microsoft.netcore.app.runtime.linux-x64.*' | grep -oP '(\d.\d.\d+.nupkg)' | grep -oP '(\d.\d.\d+)')
+    echo "Runtime framework version: $RUNTIME_FRAMEWORK_VERSION"
     sed -r --in-place "s/\%\%RYUJINX_BUILD_VERSION\%\%/$RYUJINX_VERSION/g;" src/Ryujinx.Common/ReleaseInformation.cs
     sed -r --in-place "s/\%\%RYUJINX_BUILD_GIT_HASH\%\%/$RYUJINX_GIT_SHORT_HASH/g;" src/Ryujinx.Common/ReleaseInformation.cs
     sed -r --in-place "s/\%\%RYUJINX_TARGET_RELEASE_CHANNEL_NAME\%\%/$RYUJINX_TARGET_RELEASE_CHANNEL_NAME/g;" src/Ryujinx.Common/ReleaseInformation.cs
