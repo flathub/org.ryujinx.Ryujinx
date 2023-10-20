@@ -134,6 +134,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.win32.systemevents/7.0.0/microsoft.win32.systemevents.7.0.0.nupkg",
+        "sha512": "18ee925b1ff0499205bf13a7ebb63a3a2206773f491828390910c36d2000bc10d079915bc9bbbdb043946fdc3fbd4950bfe0365da91315983d520d70fad81b59",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.win32.systemevents.7.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.reflection/4.1.0/system.reflection.4.1.0.nupkg",
         "sha512": "67143ef8f6fb1044830c70c66e9a2b4f1850f50df5dadfaa5177338362ea7b9e9fe4b0ba59cd4eac6e1c8db4e0c285c239e4c2b3ce61391618b411aaff45f7c2",
         "dest": "nuget-sources",
@@ -523,6 +530,13 @@
         "sha512": "167b4ee8d1277a5d8bd6b4fbe0a3b3a708519235fb005ea98cafdd5b30e17758efeb0a87dcd068af289400d841f4d2cd24550df882d1927c47ec6ff4fb8781ff",
         "dest": "nuget-sources",
         "dest-filename": "system.text.json.6.0.0.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/securifybv.shelllink/0.1.0/securifybv.shelllink.0.1.0.nupkg",
+        "sha512": "1ff310a82718f1fa9e21866b589f176adb792aaebf8064ee7d53837ce0bf02a01718841a85bbbffc51a6fb2e1edf286ce33f1cc5133b5d26f03a12dd307fd8e2",
+        "dest": "nuget-sources",
+        "dest-filename": "securifybv.shelllink.0.1.0.nupkg"
     },
     {
         "type": "file",
@@ -1030,6 +1044,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/securifybv.propertystore/0.1.0/securifybv.propertystore.0.1.0.nupkg",
+        "sha512": "f6a1b41249dcf26a8218aa483f2edd25a0c922298eefada35a000bd031664392c762de536dcdad9432facc20f9aafd2457fb73383836f21a8dcbcfb9a1a8dc2f",
+        "dest": "nuget-sources",
+        "dest-filename": "securifybv.propertystore.0.1.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.win-x64/7.0.12/microsoft.netcore.app.host.win-x64.7.0.12.nupkg",
         "sha512": "1ac9bd3eba220372df5e8960fac4994f17df883dccc26860be02de8fcfbcfaa941266e90c118d50c650b4c0346f55e61a2a29510c21ad896cb3425cef73c0023",
         "dest": "nuget-sources",
@@ -1419,6 +1440,13 @@
         "sha512": "5989a57ef273b689a663e961a0fe09d9b1d88438e5478358efc4b165de3b2674fa9579c301ce12d2d2fa5f33295f2acb42eceea2ebebf70c733da6364ceaf94d",
         "dest": "nuget-sources",
         "dest-filename": "system.private.uri.4.3.0.nupkg"
+    },
+    {
+        "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.drawing.common/7.0.0/system.drawing.common.7.0.0.nupkg",
+        "sha512": "d1325de54dba8110e019afeba800601c2e4e0408b297b326de92333e029fa663d7150f021555b21a2fb89a411a08aef5e5588e043914da90b69c088fba72f0ed",
+        "dest": "nuget-sources",
+        "dest-filename": "system.drawing.common.7.0.0.nupkg"
     },
     {
         "type": "file",
