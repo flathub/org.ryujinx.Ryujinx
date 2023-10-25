@@ -1240,6 +1240,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/netcoreserver/7.0.0/netcoreserver.7.0.0.nupkg",
+        "sha512": "43b48f1ca9eff8a7b24f2465ea55ea6738751abe32fc2a3ee0d5c0ea72830055c3bf12e16ed29d259cd1857b14d494774ac842f02cf0767cf080b9de80dc20fd",
+        "dest": "nuget-sources",
+        "dest-filename": "netcoreserver.7.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/runtime.any.system.resources.resourcemanager/4.3.0/runtime.any.system.resources.resourcemanager.4.3.0.nupkg",
         "sha512": "39fab03cbade2b3848d62e137313530c06b37216e24cd58c70ed6ae54bdaf9d9613a3b410375ee167c87ff935a558b1f8766ee016b8b244fde99c38fcf42a49b",
         "dest": "nuget-sources",
