@@ -29,10 +29,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/opentk.windowing.graphicslibraryframework/4.7.7/opentk.windowing.graphicslibraryframework.4.7.7.nupkg",
-        "sha512": "a3e07b550237ef382f88f4e8ca912c15875c98f86d96fa8ac21201b1268be04df09d421f2525890a297ffd773c50cb8a6aafee602f4b2d83c12822366f6d8c5f",
+        "url": "https://api.nuget.org/v3-flatcontainer/opentk.windowing.graphicslibraryframework/4.8.1/opentk.windowing.graphicslibraryframework.4.8.1.nupkg",
+        "sha512": "76ed9c871f30fcaa03a0b64096262fdfbcb30ce0189b957ba6ab4184b0e2ab82cb59e55f2869d101927fd6da00e31436b92f7c51b35d4c7d49a1da1f59dc372f",
         "dest": "nuget-sources",
-        "dest-filename": "opentk.windowing.graphicslibraryframework.4.7.7.nupkg"
+        "dest-filename": "opentk.windowing.graphicslibraryframework.4.8.1.nupkg"
     },
     {
         "type": "file",
@@ -351,10 +351,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/opentk.mathematics/4.7.7/opentk.mathematics.4.7.7.nupkg",
-        "sha512": "e9abdac4a7bcd83ef6c3b7f403b76bcd8b342f932208c937c5150a2592d23972ed5b1b43a0a958e085d5ce11c68e1182c26f2e3fa6f27037589fb2df5d35c86e",
+        "url": "https://api.nuget.org/v3-flatcontainer/opentk.mathematics/4.8.1/opentk.mathematics.4.8.1.nupkg",
+        "sha512": "256a6e52f64764663a3c62263cc00f8b87e3f7efc532f96f259275a1f93204f4308c38c876dfdc838a7e90a30dcb4718b042b3ea0f16fc9f9c15d8d65743179e",
         "dest": "nuget-sources",
-        "dest-filename": "opentk.mathematics.4.7.7.nupkg"
+        "dest-filename": "opentk.mathematics.4.8.1.nupkg"
     },
     {
         "type": "file",
@@ -509,13 +509,6 @@
         "sha512": "fbe0502089649df4a7e6e268f0b4270c5668f49d604ce04cbad1ab1932b4c0415c888469bad664669a1320769d8e14445bfce96111fc3d6079115f6fba1416e2",
         "dest": "nuget-sources",
         "dest-filename": "runtime.win.system.net.primitives.4.3.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/opentk.openal/4.7.7/opentk.openal.4.7.7.nupkg",
-        "sha512": "a4bac4e640b7635fef3accb705d9ca79d043135ac6db32f82024d1f283bc34e8d150b6095a115361e8a541c1f943a114980afbe912a4ce78ab5103858088bfcb",
-        "dest": "nuget-sources",
-        "dest-filename": "opentk.openal.4.7.7.nupkg"
     },
     {
         "type": "file",
@@ -953,10 +946,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/opentk.graphics/4.7.7/opentk.graphics.4.7.7.nupkg",
-        "sha512": "e52a632bb621aa5faeb6e91dabfa4577416481c3eaa285ae094fa20b3d7ea5909a72042b3f90919aed7587766c02b01ca30dafc1a6cdb9d373891643ea85e593",
+        "url": "https://api.nuget.org/v3-flatcontainer/opentk.graphics/4.8.1/opentk.graphics.4.8.1.nupkg",
+        "sha512": "230df0ec516f70dd9c4d0ab5e034fe5e37f585644775a4b7c1597d5c1a5ddaa176889548ecf84fb98228038733d77814eb94638fd5a93358931d09654cccadd4",
         "dest": "nuget-sources",
-        "dest-filename": "opentk.graphics.4.7.7.nupkg"
+        "dest-filename": "opentk.graphics.4.8.1.nupkg"
     },
     {
         "type": "file",
@@ -1170,6 +1163,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/opentk.audio.openal/4.8.1/opentk.audio.openal.4.8.1.nupkg",
+        "sha512": "05212564d05e5361cc5a3a4ad55bf22b9db3b1b293e0521a69d1a0e9d078edf45859a0d9d50753f0741af0bbf4369470b0a1afd71d89c4fc7137b241044bd103",
+        "dest": "nuget-sources",
+        "dest-filename": "opentk.audio.openal.4.8.1.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.osx.10.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg",
         "sha512": "61da1667a5dd1e53a5d19fbe90abbfe332d84fe755fb811a080668a47d41a97db44539e3174fd1d2a0770ff1bd83afa68c82ce06df5775da65a6054ccc12c4be",
         "dest": "nuget-sources",
@@ -1177,10 +1177,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/opentk.redist.glfw/3.3.8.30/opentk.redist.glfw.3.3.8.30.nupkg",
-        "sha512": "2c0f00846b5ecc4e9ce429b3988f624f896924df8390faaf9c45429b1fb4e752f74c3f086b889cd9250e9a2a545db2f925c186030018cb2c3e3005dffc44aef3",
+        "url": "https://api.nuget.org/v3-flatcontainer/opentk.redist.glfw/3.3.8.39/opentk.redist.glfw.3.3.8.39.nupkg",
+        "sha512": "cc38e70361fd95dbaffa952cbbd82b280a3aafa5fced989c836f7b35f450fb231f45e7dc88784d479851b01763d99adc68a367ebf301596eca66c33387687496",
         "dest": "nuget-sources",
-        "dest-filename": "opentk.redist.glfw.3.3.8.30.nupkg"
+        "dest-filename": "opentk.redist.glfw.3.3.8.39.nupkg"
     },
     {
         "type": "file",
@@ -1247,10 +1247,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/opentk.core/4.7.7/opentk.core.4.7.7.nupkg",
-        "sha512": "63a4c080c33ed5b0ce4e2a818dd66fe2785f11132d749af85900b11b86167154150d0a3c2b40a51b3592de8563259aaca19c55d14cd19f73ec7e305c07141139",
+        "url": "https://api.nuget.org/v3-flatcontainer/opentk.core/4.8.1/opentk.core.4.8.1.nupkg",
+        "sha512": "3aab35252b668aeaeee3d4a6ab8628b64a431a5a69ffc5c494a4724420a1a53168bfad15bb64f1b1cf6b548f2598fd87970cdef8231042b0a3bd0e6d20cef3b7",
         "dest": "nuget-sources",
-        "dest-filename": "opentk.core.4.7.7.nupkg"
+        "dest-filename": "opentk.core.4.8.1.nupkg"
     },
     {
         "type": "file",
