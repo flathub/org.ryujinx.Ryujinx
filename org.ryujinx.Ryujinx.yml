@@ -1,10 +1,10 @@
 app-id: org.ryujinx.Ryujinx
 runtime: org.freedesktop.Platform
-runtime-version: '22.08'
+runtime-version: '23.08'
 sdk: org.freedesktop.Sdk
 add-extensions:
   org.freedesktop.Platform.ffmpeg-full:
-    version: '22.08'
+    version: '23.08'
     directory: lib/ffmpeg
     add-ld-path: .
 finish-args:
@@ -68,11 +68,11 @@ modules:
     only-arches:
     - x86_64
     dest: dotnet-sdk
-    url: https://dotnetcli.azureedge.net/dotnet/Sdk/7.0.403/dotnet-sdk-7.0.403-linux-x64.tar.gz
-    sha256: 8a3c6bf5bfdf4f81775b7314b136bf96f0ba995804c66ae1cd787cb20365ec4e
+    url: https://dotnetcli.azureedge.net/dotnet/Sdk/8.0.100/dotnet-sdk-8.0.100-linux-x64.tar.gz
+    sha256: 550692ae3233e69692822b8be31bb01c5a2b60c3cfa59e9bfce8278b99f36211
     x-checker-data:
       type: rotating-url
-      url: https://aka.ms/dotnet/7.0/dotnet-sdk-linux-x64.tar.gz
+      url: https://aka.ms/dotnet/8.0/dotnet-sdk-linux-x64.tar.gz
       pattern: https://dotnetcli.azureedge.net/dotnet/Sdk/^([\d\.a-z-]+)$/dotnet-sdk-^([\d\.a-z-]+)$-linux-x64.tar.gz
   - nuget_sources.json
   - type: git
