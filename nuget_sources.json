@@ -1,13 +1,6 @@
 [
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/ryujinx.graphics.vulkan.dependencies.moltenvk/1.2.0/ryujinx.graphics.vulkan.dependencies.moltenvk.1.2.0.nupkg",
-        "sha512": "d1fbf91712fcaadbd9151eb2dfe5cd1a58a0add3737053d5c53caebcb64165db1a542a2ab4d95a180d356abcc028a97491b91992cff5b1e80091758e54ba0c31",
-        "dest": "nuget-sources",
-        "dest-filename": "ryujinx.graphics.vulkan.dependencies.moltenvk.1.2.0.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/runtime.any.system.threading.tasks/4.3.0/runtime.any.system.threading.tasks.4.3.0.nupkg",
         "sha512": "5f37a56f5d6c7fc198c7ef76b822b85284f9d7d1c06583c26a698793ade65da1b273d5fb03c20be1eb91a9c835f7122ad2775f4e51dffb2758fabac2a30f8c23",
         "dest": "nuget-sources",
@@ -673,6 +666,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.net.illink.tasks/8.0.0/microsoft.net.illink.tasks.8.0.0.nupkg",
+        "sha512": "7fcfe8685558d875a773ff41455abd765280f7c50dd725f0d580acdc3ea2313560f04e52070b91aafcdd912f2c7c8d7d7f9f79d586bcd1cd6125268773b0402e",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.net.illink.tasks.8.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.collections/4.0.11/system.collections.4.0.11.nupkg",
         "sha512": "f61b75329ba5d7c0e688aa9d110b2200c8934c3a1888f6b1b5f198baa7ab93f23835e8380853e8c046f257172b5060578ed86df26e5fe0ef34d8c4408a02c33f",
         "dest": "nuget-sources",
@@ -981,13 +981,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/gtksharp.dependencies/1.1.1/gtksharp.dependencies.1.1.1.nupkg",
-        "sha512": "6373a348b6ce3dfa2ad03c0e0eb74c4de7a4b45847c3d9ff16807eebafe6689c19f1828027abe33757f6453cee847e27a9dd952b1545576d51c63200baf1d28b",
-        "dest": "nuget-sources",
-        "dest-filename": "gtksharp.dependencies.1.1.1.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.memory/4.5.5/system.memory.4.5.5.nupkg",
         "sha512": "e8c8e536c97b94ac3443c940b30dad43cf6e97dc7a8c3d989371048fe74e168606384f5e0143bdc0d86f7783bf9fdee8417964cb3a8a5d752713e90b125172dc",
         "dest": "nuget-sources",
@@ -1111,13 +1104,6 @@
         "sha512": "97473714049c029256d04027f825f0ec4cbd208d4455add8034496425e515437de812f1bd54ba65b00cdee86573502db0662f97100c52bcb47add4d67163febc",
         "dest": "nuget-sources",
         "dest-filename": "runtime.win.system.console.4.3.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/ryujinx.audio.openal.dependencies/1.21.0.1/ryujinx.audio.openal.dependencies.1.21.0.1.nupkg",
-        "sha512": "4b6b99d943db72eac80779e2bbae15e9bac11ff1a30365f5363990f49f0c605fff5ce0b57bbb54e33cd73eed6e588e28598cfc0fe5bea7b56c2a3dda2d031194",
-        "dest": "nuget-sources",
-        "dest-filename": "ryujinx.audio.openal.dependencies.1.21.0.1.nupkg"
     },
     {
         "type": "file",
