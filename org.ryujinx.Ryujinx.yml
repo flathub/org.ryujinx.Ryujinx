@@ -15,7 +15,6 @@ finish-args:
 - --share=network
 - --filesystem=home:ro
 - --filesystem=xdg-run/app/com.discordapp.Discord:create
-- --filesystem=xdg-config/gtk-3.0:ro
 rename-icon: ryujinx
 command: ryujinx-wrapper
 modules:
