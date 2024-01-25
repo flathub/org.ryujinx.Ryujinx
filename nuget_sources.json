@@ -729,10 +729,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.drawing.common/8.0.0/system.drawing.common.8.0.0.nupkg",
-        "sha512": "40a16c9c5dd59148051bd55a2355339343186ec188bcb8e9ea5abe0dc6035106e7d745323cc4d492750e791c41397c53616b553d79b8d5e5fc56dff3345ed533",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.drawing.common/8.0.1/system.drawing.common.8.0.1.nupkg",
+        "sha512": "aca1d17f02e99f7a8dbaffb8ec5d761ef9e69a70470467e9636b4f1f1a249a03346045947926ba3b7c71e21200f491023f6295f3ab3a4d75b9334cd239aa589d",
         "dest": "nuget-sources",
-        "dest-filename": "system.drawing.common.8.0.0.nupkg"
+        "dest-filename": "system.drawing.common.8.0.1.nupkg"
     },
     {
         "type": "file",
