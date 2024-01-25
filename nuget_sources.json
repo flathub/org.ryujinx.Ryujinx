@@ -218,10 +218,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.7.0/microsoft.codeanalysis.common.4.7.0.nupkg",
-        "sha512": "7714dbae06bb2dfae739d193de2651770c0ea534c2b30b7f1adc02a68cb12d270891b1c0100dff10925f56e9885ae0e8ceb583062cdbe599b60e472bafed8f57",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.8.0/microsoft.codeanalysis.common.4.8.0.nupkg",
+        "sha512": "477bbe806b3f45a9221aa9c17fcd27883239ea909a37583eda7eba4262aa8fa7c0bfac70f6e112d81b70b4a3a442c893103a8f9ba564d0ec2b82c3f54bead26c",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.common.4.7.0.nupkg"
+        "dest-filename": "microsoft.codeanalysis.common.4.8.0.nupkg"
     },
     {
         "type": "file",
@@ -722,10 +722,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.7.0/microsoft.codeanalysis.csharp.4.7.0.nupkg",
-        "sha512": "c3ab9a1079196ecf6a32183c6400ec90267320af7deac2e36cba73b4fbf4c81e2898ee33d893241a60db97505c66e67b7b6bef6e3dbf038f453012d9c5edfd29",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.8.0/microsoft.codeanalysis.csharp.4.8.0.nupkg",
+        "sha512": "d475570908796f4c3f284eea9e2d93d64d9d2bfe7e3fdb97c0e1eef8d0d4c17e99a65a4d1fde054944010bfc30ce3169c5f99d6217a7d4bbc6934878d1aff468",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.csharp.4.7.0.nupkg"
+        "dest-filename": "microsoft.codeanalysis.csharp.4.8.0.nupkg"
     },
     {
         "type": "file",
