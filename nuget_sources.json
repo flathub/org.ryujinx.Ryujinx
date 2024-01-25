@@ -85,10 +85,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.io.recyclablememorystream/2.3.2/microsoft.io.recyclablememorystream.2.3.2.nupkg",
-        "sha512": "4cf90044ce936a311db9fe1fe04c4aac51c6892c9e9f080917b3153b91e5448664cdabb7781ce189f222aa404293b58dcee3032ca012624d0a00af6831b79092",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.io.recyclablememorystream/3.0.0/microsoft.io.recyclablememorystream.3.0.0.nupkg",
+        "sha512": "ef1548eb301d88e00a72190f50b8f2df7591a7730fc70a18201de4c7441655d17d7e56f70e1a221ad487adeedcff547d0c87b7b2142bae261e8b05d63a4037ca",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.io.recyclablememorystream.2.3.2.nupkg"
+        "dest-filename": "microsoft.io.recyclablememorystream.3.0.0.nupkg"
     },
     {
         "type": "file",
