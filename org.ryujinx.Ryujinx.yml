@@ -14,6 +14,7 @@ finish-args:
 - --socket=pulseaudio
 - --share=network
 - --filesystem=home:ro
+- --filesystem=xdg-pictures:rw
 - --filesystem=xdg-run/app/com.discordapp.Discord:create
 rename-icon: ryujinx
 command: ryujinx-wrapper
@@ -47,8 +48,9 @@ modules:
     sed -r --in-place "s/\%\%RYUJINX_TARGET_RELEASE_CHANNEL_NAME\%\%/$RYUJINX_TARGET_RELEASE_CHANNEL_NAME/g;" src/Ryujinx.Common/ReleaseInformation.cs
     sed -r --in-place "s/\%\%RYUJINX_TARGET_RELEASE_CHANNEL_OWNER\%\%/$RYUJINX_TARGET_RELEASE_CHANNEL_OWNER/g;" src/Ryujinx.Common/ReleaseInformation.cs
     sed -r --in-place "s/\%\%RYUJINX_TARGET_RELEASE_CHANNEL_REPO\%\%/$RYUJINX_TARGET_RELEASE_CHANNEL_REPO/g;" src/Ryujinx.Common/ReleaseInformation.cs
+    sed -r --in-place 's/\%\%RYUJINX_CONFIG_FILE_NAME\%\%/Config\.json/g;' src/Ryujinx.Common/ReleaseInformation.cs
     mkdir -p /app/bin
-    dotnet publish -c Release -r $RUNTIME /p:DebugType=embedded src/Ryujinx /p:Version=$RYUJINX_VERSION /p:SourceRevisionId=$RYUJINX_GIT_SHORT_HASH /p:ExtraDefineConstants="DISABLE_UPDATER%2CFORCE_EXTERNAL_BASE_DIR" /p:RuntimeFrameworkVersion=$RUNTIME_FRAMEWORK_VERSION --self-contained --source nuget-sources
+    dotnet publish -c Release -r $RUNTIME /p:DebugType=embedded src/Ryujinx /p:Version=$RYUJINX_VERSION /p:SourceRevisionId=$RYUJINX_GIT_SHORT_HASH /p:ExtraDefineConstants="DISABLE_UPDATER" /p:RuntimeFrameworkVersion=$RUNTIME_FRAMEWORK_VERSION --self-contained --source nuget-sources
     if [ $? -ne 0 ]; then
         exit 1;
     fi;
