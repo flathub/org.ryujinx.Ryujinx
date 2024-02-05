@@ -876,10 +876,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/spb/0.0.4-build28/spb.0.0.4-build28.nupkg",
-        "sha512": "b3bbcaa903a7a7da3efee334907bd2b240849fa505d57df1678c6c00f696c3da915068c333cce18504e2577d63801df59f0081c5d97fbf256a19aaa972dd81bb",
+        "url": "https://api.nuget.org/v3-flatcontainer/spb/0.0.4-build32/spb.0.0.4-build32.nupkg",
+        "sha512": "de220d44f6deadde8a73f3a1784762fb4f5240dea0a681cd5a6ac18c01c5ae2645baab960ba54652b8837b5b0e775c8ee0f3cd7df7d8c18adf0d16a39f7abcec",
         "dest": "nuget-sources",
-        "dest-filename": "spb.0.0.4-build28.nupkg"
+        "dest-filename": "spb.0.0.4-build32.nupkg"
     },
     {
         "type": "file",
