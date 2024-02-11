@@ -162,6 +162,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.linux-x64/8.0.1/microsoft.netcore.app.host.linux-x64.8.0.1.nupkg",
+        "sha512": "9e97cde7bba8581f964ae252bcd2c23d9bff75b65c5ea20eaaea2839e96c72c8b51f9410079739d9e693b022f241d33dad8742c8d5f72c5e2cbc5aa7fa003491",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.netcore.app.host.linux-x64.8.0.1.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.management/8.0.0/system.management.8.0.0.nupkg",
         "sha512": "a0491f0b442496e4274e6c18da87c8e31f471f4af908b45fd000fb9b58e1760c49b4232b0df9f0ce9e569fea2de968f0b2cc54cf7c53d6e67b46156fb100e9df",
         "dest": "nuget-sources",
