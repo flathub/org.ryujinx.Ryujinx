@@ -876,6 +876,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/5.0.0/system.text.encoding.codepages.5.0.0.nupkg",
+        "sha512": "4f32c801b3dc8b3d287c17310e8eaecbb7d3d0e311e39e1c428439fea7276860febc38422a61abc93d3cbbcd97bf511835b316553e931e04f6333a80629dc746",
+        "dest": "nuget-sources",
+        "dest-filename": "system.text.encoding.codepages.5.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microsoft.win32.systemevents/8.0.0/microsoft.win32.systemevents.8.0.0.nupkg",
         "sha512": "25016c508653fbf463c52d8fc3d2773b7c211c2402c4ea7b4aa987fb29c851d3f80c5e7abbcace2d4d5e061ae290524e8029afbc49a37d7e5186fe06aa4609b2",
         "dest": "nuget-sources",
@@ -939,10 +946,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sixlabors.imagesharp/1.0.4/sixlabors.imagesharp.1.0.4.nupkg",
-        "sha512": "66d710910a44505cdee5bbcfa7c2d2d6025891f7c1facdea8fd52e46fbc76122ab4f7bd1e1656ab782dd84292d59bddec93a1ecf8b94117dad75b5f69b52e23e",
+        "url": "https://api.nuget.org/v3-flatcontainer/sixlabors.imagesharp/2.1.7/sixlabors.imagesharp.2.1.7.nupkg",
+        "sha512": "7d48846d24a2442708aabfe3c20e7a3066df286840ffd36953988417b3a52030b571102d28b6a0507a979d604fcf36b3e7d1b801c00ec5720895a12da7ba1774",
         "dest": "nuget-sources",
-        "dest-filename": "sixlabors.imagesharp.1.0.4.nupkg"
+        "dest-filename": "sixlabors.imagesharp.2.1.7.nupkg"
     },
     {
         "type": "file",
@@ -1037,6 +1044,13 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg",
+        "sha512": "8493fe11648c7ecc20b6530490d30fd63744961345c0501a7a10b11046661da09b783ddceb8b3208ae52a72a8a94cafdce8dc1bd6073c32081e30d0e7407f174",
+        "dest": "nuget-sources",
+        "dest-filename": "microsoft.netcore.platforms.5.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.security.accesscontrol/4.5.0/system.security.accesscontrol.4.5.0.nupkg",
         "sha512": "e9142d713f93c8380b505b009e699d7d144674b60ac526469123ce774e76b6f605c4e4cc6906fa00d970846a99b4d3b9d8fa2c682a17bbbb9ab459deba303198",
         "dest": "nuget-sources",
@@ -1065,10 +1079,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sixlabors.imagesharp.drawing/1.0.0-beta11/sixlabors.imagesharp.drawing.1.0.0-beta11.nupkg",
-        "sha512": "15c8f11059ce33331a4a9c7981a5bd91ffc19eaf05f236a1c54d5013ac0fafeb6e065cd2f63d4e9037297cdc9216ac4e67e5d9b73b967da740c174e3318a15f9",
+        "url": "https://api.nuget.org/v3-flatcontainer/sixlabors.imagesharp.drawing/1.0.0/sixlabors.imagesharp.drawing.1.0.0.nupkg",
+        "sha512": "aaa93e7fce031cd969e6cda4ded839da7aa27508f168837c08e7324d23f31be0543485209114b3ca129852194bb20a1e7564497822f28fe1f200459ee51acc36",
         "dest": "nuget-sources",
-        "dest-filename": "sixlabors.imagesharp.drawing.1.0.0-beta11.nupkg"
+        "dest-filename": "sixlabors.imagesharp.drawing.1.0.0.nupkg"
     },
     {
         "type": "file",
@@ -1212,10 +1226,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sixlabors.fonts/1.0.0-beta0013/sixlabors.fonts.1.0.0-beta0013.nupkg",
-        "sha512": "4e51c75fff6601c787ced1d6ac8e955ac4c0fe4a24355099f8925705127c322f8d09a66ea38cce7db7b21b680223ae0b5d80417ad2eafc1291f37f4bab7e31b5",
+        "url": "https://api.nuget.org/v3-flatcontainer/sixlabors.fonts/1.0.0/sixlabors.fonts.1.0.0.nupkg",
+        "sha512": "cbd960c1bb91bde6b20068b4b269bc7a11710bb0975884e157ef2cbddda6a9ade5a6c44232e01203b49a09fec669f72dac01baf12fe507f7fbb58ded8ae613b2",
         "dest": "nuget-sources",
-        "dest-filename": "sixlabors.fonts.1.0.0-beta0013.nupkg"
+        "dest-filename": "sixlabors.fonts.1.0.0.nupkg"
     },
     {
         "type": "file",
@@ -1363,13 +1377,6 @@
         "sha512": "99164d4808d71c090441cc39ae14a6d13e9d76e0d10f682feccbad7fb4b059aa48fa92666b07b3e950400afcfe7069c238f56295fe9ad03a8ddc02dccefd98c6",
         "dest": "nuget-sources",
         "dest-filename": "avalonia.remote.protocol.11.0.4.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.runtime.compilerservices.unsafe/4.7.0/system.runtime.compilerservices.unsafe.4.7.0.nupkg",
-        "sha512": "14c154122872d3929f4f691aa2cb8db78f62b8b6e18b278b39a53d128d93b5cc59be330fa9b6b4613c81f9acfe004f1c97f2f815df753a8b97628c17dd543605",
-        "dest": "nuget-sources",
-        "dest-filename": "system.runtime.compilerservices.unsafe.4.7.0.nupkg"
     },
     {
         "type": "file",
