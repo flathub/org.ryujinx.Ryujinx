@@ -8,14 +8,14 @@ add-extensions:
     directory: lib/ffmpeg
     add-ld-path: .
 finish-args:
-- --share=ipc
-- --socket=x11
-- --device=all
-- --socket=pulseaudio
-- --share=network
-- --filesystem=home:ro
-- --filesystem=xdg-pictures:rw
-- --filesystem=xdg-run/app/com.discordapp.Discord:create
+  - --share=ipc
+  - --socket=x11
+  - --device=all
+  - --socket=pulseaudio
+  - --share=network
+  - --filesystem=home:ro
+  - --filesystem=xdg-pictures:rw
+  - --filesystem=xdg-run/app/com.discordapp.Discord:create
 rename-icon: ryujinx
 command: ryujinx-wrapper
 modules:
@@ -69,20 +69,20 @@ modules:
   sources:
   - type: archive
     only-arches:
-    - x86_64
+      - x86_64
     dest: dotnet-sdk
-    url: https://dotnetcli.azureedge.net/dotnet/Sdk/8.0.201/dotnet-sdk-8.0.201-linux-x64.tar.gz
-    sha256: 164d90b1db6e9ac36763e4481c253091846bbb6a62b3072aa1e39b9d08ce1908
+    url: https://dotnetcli.azureedge.net/dotnet/Sdk/8.0.202/dotnet-sdk-8.0.202-linux-x64.tar.gz
+    sha256: ea9d0cc60b768e22ceefd086933efd958a63cefc923345864a061ec7d934ee1e
     x-checker-data:
       type: rotating-url
       url: https://aka.ms/dotnet/8.0/dotnet-sdk-linux-x64.tar.gz
       pattern: https://dotnetcli.azureedge.net/dotnet/Sdk/^([\d\.a-z-]+)$/dotnet-sdk-^([\d\.a-z-]+)$-linux-x64.tar.gz
   - type: archive
     only-arches:
-    - aarch64
+      - aarch64
     dest: dotnet-sdk
-    url: https://dotnetcli.azureedge.net/dotnet/Sdk/8.0.201/dotnet-sdk-8.0.201-linux-arm64.tar.gz
-    sha256: 69c7f6d3f8439ca13d9d81cf5e6f68b12b0cbffb01e7124b8a35f0de2575cd5b
+    url: https://dotnetcli.azureedge.net/dotnet/Sdk/8.0.202/dotnet-sdk-8.0.202-linux-arm64.tar.gz
+    sha256: 5298f92dc30ff920d400667d83ebc0d65e0b49fb1eec5f7bab7b8ff43e58c03b
     x-checker-data:
       type: rotating-url
       url: https://aka.ms/dotnet/8.0/dotnet-sdk-linux-arm64.tar.gz
