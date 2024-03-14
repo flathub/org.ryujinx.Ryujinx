@@ -8,14 +8,14 @@ add-extensions:
     directory: lib/ffmpeg
     add-ld-path: .
 finish-args:
-  - --share=ipc
-  - --socket=x11
-  - --device=all
-  - --socket=pulseaudio
-  - --share=network
-  - --filesystem=home:ro
-  - --filesystem=xdg-pictures:rw
-  - --filesystem=xdg-run/app/com.discordapp.Discord:create
+- --share=ipc
+- --socket=x11
+- --device=all
+- --socket=pulseaudio
+- --share=network
+- --filesystem=home:ro
+- --filesystem=xdg-pictures:rw
+- --filesystem=xdg-run/app/com.discordapp.Discord:create
 rename-icon: ryujinx
 command: ryujinx-wrapper
 modules:
@@ -36,7 +36,7 @@ modules:
       PKG_CONFIG_PATH: /app/lib/pkgconfig:/app/share/pkgconfig:/usr/lib/pkgconfig:/usr/share/pkgconfig
       DOTNET_CLI_TELEMETRY_OPTOUT: 'true'
       DOTNET_SKIP_FIRST_TIME_EXPERIENCE: 'true'
-      RYUJINX_VERSION: 1.1.1227
+      RYUJINX_VERSION: 1.1.1228
       RYUJINX_TARGET_RELEASE_CHANNEL_OWNER: flathub
       RYUJINX_TARGET_RELEASE_CHANNEL_REPO: org.ryujinx.Ryujinx
       RYUJINX_TARGET_RELEASE_CHANNEL_NAME: master
@@ -69,7 +69,7 @@ modules:
   sources:
   - type: archive
     only-arches:
-      - x86_64
+    - x86_64
     dest: dotnet-sdk
     url: https://dotnetcli.azureedge.net/dotnet/Sdk/8.0.202/dotnet-sdk-8.0.202-linux-x64.tar.gz
     sha256: ea9d0cc60b768e22ceefd086933efd958a63cefc923345864a061ec7d934ee1e
@@ -79,7 +79,7 @@ modules:
       pattern: https://dotnetcli.azureedge.net/dotnet/Sdk/^([\d\.a-z-]+)$/dotnet-sdk-^([\d\.a-z-]+)$-linux-x64.tar.gz
   - type: archive
     only-arches:
-      - aarch64
+    - aarch64
     dest: dotnet-sdk
     url: https://dotnetcli.azureedge.net/dotnet/Sdk/8.0.202/dotnet-sdk-8.0.202-linux-arm64.tar.gz
     sha256: 5298f92dc30ff920d400667d83ebc0d65e0b49fb1eec5f7bab7b8ff43e58c03b
@@ -90,7 +90,7 @@ modules:
   - nuget_sources.json
   - type: git
     url: https://github.com/Ryujinx/Ryujinx.git
-    commit: 6b4ee82e5d4a4261de1e95d8d4c9df55928527f6
+    commit: ce607db944beb352065107830769d8570f0c245e
   - type: file
     path: ryujinx-wrapper
   - type: file
