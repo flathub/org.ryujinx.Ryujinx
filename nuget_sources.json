@@ -603,10 +603,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.svg/11.0.0.14/avalonia.svg.11.0.0.14.nupkg",
-        "sha512": "9e44d0c097531a2b84d9fe1fb34b8543294c765ec383f2ec17393c57f5ede48dbd15fe56bf9577c763c43d3eae652da22c412d2739f5ec963b0fbf410f3c627a",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.svg/11.0.0.16/avalonia.svg.11.0.0.16.nupkg",
+        "sha512": "0e6ff4b5deb61dcd28343f800880c5a0a3ccd93144a936c8a575d6e5427e22ebff1d896f33cc429bf4d61cafdc327b9c765ae3062cbb5dc22ff7008f6ff4236b",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.svg.11.0.0.14.nupkg"
+        "dest-filename": "avalonia.svg.11.0.0.16.nupkg"
     },
     {
         "type": "file",
@@ -792,10 +792,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/svg.custom/1.0.0.14/svg.custom.1.0.0.14.nupkg",
-        "sha512": "0504f58d3cb9c52f52594c01aa71bcae34f7fa78552b51bbeeee548a1b438f1f4945018f316db7f81b7b121738838de9c85d032f04704e05efd4feffd7ca44bf",
+        "url": "https://api.nuget.org/v3-flatcontainer/svg.custom/1.0.0.16/svg.custom.1.0.0.16.nupkg",
+        "sha512": "782547cd07d4ad37cc4ffd45694764cf314b8cf32d80f94318928ff1a9378442800550ebdd1023e3e604d3779973119766b3bd5f5018a053804195d295d21b92",
         "dest": "nuget-sources",
-        "dest-filename": "svg.custom.1.0.0.14.nupkg"
+        "dest-filename": "svg.custom.1.0.0.16.nupkg"
     },
     {
         "type": "file",
@@ -1226,10 +1226,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/svg.model/1.0.0.14/svg.model.1.0.0.14.nupkg",
-        "sha512": "e28ff5001c8d96e30abe140181b274bd1c9b152fcc74effb48f88b5d8739aa96b9e1ff5e98eb588e45289e12a6817a6d13859bb2b985dce15829cb18ba14daab",
+        "url": "https://api.nuget.org/v3-flatcontainer/svg.model/1.0.0.16/svg.model.1.0.0.16.nupkg",
+        "sha512": "bb307a15b443c68db3ae3dfc9d7381bcd7b98408f5e866754a2a67d5d21fb5099a6a56b6485cdc07c04bcd2f960a8b9b37a2d012e3140b4b3ad760b184059e40",
         "dest": "nuget-sources",
-        "dest-filename": "svg.model.1.0.0.14.nupkg"
+        "dest-filename": "svg.model.1.0.0.16.nupkg"
     },
     {
         "type": "file",
@@ -1604,10 +1604,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.svg.skia/11.0.0.14/avalonia.svg.skia.11.0.0.14.nupkg",
-        "sha512": "d63de017cce3454bb662a70f0229c1751e5a677d86aa4136f285ba431a48e53f9a8b22481214706d7c544abad90b1c94831c0e97c34734c48088fd244142605c",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.svg.skia/11.0.0.16/avalonia.svg.skia.11.0.0.16.nupkg",
+        "sha512": "1a7a9d99110e3b409bfe1579355a525271060054388f27a32ebfc7ae7ed100b7e580d9c62f52ed8297276682e573d6d4367d41fd7d40b640b9310383b46d8039",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.svg.skia.11.0.0.14.nupkg"
+        "dest-filename": "avalonia.svg.skia.11.0.0.16.nupkg"
     },
     {
         "type": "file",
@@ -1688,10 +1688,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/svg.skia/1.0.0.14/svg.skia.1.0.0.14.nupkg",
-        "sha512": "98cc8a6e2bc22742d315b4064c72b114f0e05ce51adf57c6dc55cc82029ba44b00c6ad6b3280ff3014e8a4fb174bc0597d133d627122560d00571e00b8803032",
+        "url": "https://api.nuget.org/v3-flatcontainer/svg.skia/1.0.0.16/svg.skia.1.0.0.16.nupkg",
+        "sha512": "e63bb797286e6716205847cad4234352060b8f82464b443a5d7ae1d88e500441010a682ebc66519cf63b565243cfb5aad73d6ed500b8b089092fa915bd44c336",
         "dest": "nuget-sources",
-        "dest-filename": "svg.skia.1.0.0.14.nupkg"
+        "dest-filename": "svg.skia.1.0.0.16.nupkg"
     },
     {
         "type": "file",
@@ -1702,10 +1702,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/shimskiasharp/1.0.0.14/shimskiasharp.1.0.0.14.nupkg",
-        "sha512": "62d6903c904da733f895a4528183faf3f56042e860d96bc0a4444aa8f905c90170ea3e71d2b0c085ddfafd1aad055d22cda3b7c21a81220e3b0770691ba9e79c",
+        "url": "https://api.nuget.org/v3-flatcontainer/shimskiasharp/1.0.0.16/shimskiasharp.1.0.0.16.nupkg",
+        "sha512": "96a00a43235f11fb4695b615e204a147eadc0427ff6ae6c4ab02d31fe32969d1181e63a7ace83ebfcfc7e92e81073b9ee4b8f5c5e535f08657e3993e71d7a820",
         "dest": "nuget-sources",
-        "dest-filename": "shimskiasharp.1.0.0.14.nupkg"
+        "dest-filename": "shimskiasharp.1.0.0.16.nupkg"
     },
     {
         "type": "file",
