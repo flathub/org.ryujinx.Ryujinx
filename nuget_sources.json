@@ -225,10 +225,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.8.0/microsoft.codeanalysis.csharp.4.8.0.nupkg",
-        "sha512": "d475570908796f4c3f284eea9e2d93d64d9d2bfe7e3fdb97c0e1eef8d0d4c17e99a65a4d1fde054944010bfc30ce3169c5f99d6217a7d4bbc6934878d1aff468",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.csharp/4.9.2/microsoft.codeanalysis.csharp.4.9.2.nupkg",
+        "sha512": "a32e6751d24e68e4048d46629a1607e3153a9d5c6df1cb6474fec74f67dcdf679cbc7e7441e23025782336decc194ca124ef967774a2a50590e50c83c3b56e2e",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.csharp.4.8.0.nupkg"
+        "dest-filename": "microsoft.codeanalysis.csharp.4.9.2.nupkg"
     },
     {
         "type": "file",
@@ -295,10 +295,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.collections.immutable/7.0.0/system.collections.immutable.7.0.0.nupkg",
-        "sha512": "f084afc9395d74b4f252c47b7d0e378e676d6b8b6033a68636b648b58805e3772dd22ff1ded05d3c8c8553d2e7685b29b753fe1cbb5a333f018abe6422a3ebfa",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.collections.immutable/8.0.0/system.collections.immutable.8.0.0.nupkg",
+        "sha512": "057a9591c22b8629afbde9baab60a15a4b96e976188abbdbe85961beec1a32806a05da5caf89de84904a3fae53c38d14a9c50cea80e8383b1e70cd328d9e8053",
         "dest": "nuget-sources",
-        "dest-filename": "system.collections.immutable.7.0.0.nupkg"
+        "dest-filename": "system.collections.immutable.8.0.0.nupkg"
     },
     {
         "type": "file",
@@ -869,17 +869,17 @@
     },
     {
         "type": "file",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/8.0.0/system.text.encoding.codepages.8.0.0.nupkg",
+        "sha512": "77dadf6b1a73eeefb50507a6d76f5e3a20e0ae7d3f550c349265ae4e0d55f0ae4f0ef1b41be08dd810798a8e01dbba74e2caac746b5158b8e23d722523d473ed",
+        "dest": "nuget-sources",
+        "dest-filename": "system.text.encoding.codepages.8.0.0.nupkg"
+    },
+    {
+        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/5.0.0/system.text.encoding.codepages.5.0.0.nupkg",
         "sha512": "4f32c801b3dc8b3d287c17310e8eaecbb7d3d0e311e39e1c428439fea7276860febc38422a61abc93d3cbbcd97bf511835b316553e931e04f6333a80629dc746",
         "dest": "nuget-sources",
         "dest-filename": "system.text.encoding.codepages.5.0.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/7.0.0/system.text.encoding.codepages.7.0.0.nupkg",
-        "sha512": "485abfaeb1f9dac307249b2d84375a7d63c4bb175109107ba59e3ab6b476c52a62d677ca3c06f0e9a999afd5bf2f21d396a4b4d534563bb9da8d1b8ed6fc458a",
-        "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.7.0.0.nupkg"
     },
     {
         "type": "file",
@@ -1191,10 +1191,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.8.0/microsoft.codeanalysis.common.4.8.0.nupkg",
-        "sha512": "477bbe806b3f45a9221aa9c17fcd27883239ea909a37583eda7eba4262aa8fa7c0bfac70f6e112d81b70b4a3a442c893103a8f9ba564d0ec2b82c3f54bead26c",
+        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.codeanalysis.common/4.9.2/microsoft.codeanalysis.common.4.9.2.nupkg",
+        "sha512": "5c2b6a3d0767a2a7eb05289d1562044a6f1ec57547178c8f63de1ef384add8f5593dcd9b19e40d5dd14dc1a76ed41776b2bfdb0203390745076c2a81cfefd279",
         "dest": "nuget-sources",
-        "dest-filename": "microsoft.codeanalysis.common.4.8.0.nupkg"
+        "dest-filename": "microsoft.codeanalysis.common.4.9.2.nupkg"
     },
     {
         "type": "file",
@@ -1422,10 +1422,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/7.0.0/system.reflection.metadata.7.0.0.nupkg",
-        "sha512": "2d93c8ba1a78ceb90d25b7a3b82ae7c7f2452ad29f49ee8e1c60b2bcda19f8f6edf68689d42a586aef5faf9f1049fe5e8095ec9a4ab48a2cd2a950a8b7ec2c85",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.reflection.metadata/8.0.0/system.reflection.metadata.8.0.0.nupkg",
+        "sha512": "fbab0c76426379ed01ea79b702504197b710688d283e788bbef92b90586610dddfa3f84638d685770a4068ef8645395b65ee24459cc5c14ee4497416d11c89c6",
         "dest": "nuget-sources",
-        "dest-filename": "system.reflection.metadata.7.0.0.nupkg"
+        "dest-filename": "system.reflection.metadata.8.0.0.nupkg"
     },
     {
         "type": "file",
