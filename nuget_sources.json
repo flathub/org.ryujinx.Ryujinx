@@ -1555,10 +1555,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/dynamicdata/8.3.27/dynamicdata.8.3.27.nupkg",
-        "sha512": "068ca0705a887571fb4bff38b3e1def43d4b5bd0b15cea5e2d84a96f2b25215538a0eb4ddf0e209fcf70aca5896697d82e3ff7347e7fecd91fc95eef52b9b326",
+        "url": "https://api.nuget.org/v3-flatcontainer/dynamicdata/8.4.1/dynamicdata.8.4.1.nupkg",
+        "sha512": "e5c76134ffbc36bf9a90b5b33091c324c65686726d3aaf22810d73ffdd26dc8a34d1b0dd96f18d17f15efe09236b3125b6979cc783062ac82559a50d1798f3de",
         "dest": "nuget-sources",
-        "dest-filename": "dynamicdata.8.3.27.nupkg"
+        "dest-filename": "dynamicdata.8.4.1.nupkg"
     },
     {
         "type": "file",
