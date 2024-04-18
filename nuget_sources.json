@@ -386,10 +386,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sixlabors.imagesharp/2.1.7/sixlabors.imagesharp.2.1.7.nupkg",
-        "sha512": "7d48846d24a2442708aabfe3c20e7a3066df286840ffd36953988417b3a52030b571102d28b6a0507a979d604fcf36b3e7d1b801c00ec5720895a12da7ba1774",
+        "url": "https://api.nuget.org/v3-flatcontainer/sixlabors.imagesharp/2.1.8/sixlabors.imagesharp.2.1.8.nupkg",
+        "sha512": "b80c9b93937c231629a4846bd3b820955878527d5d096e0a87141dae958304e351545653340169c13921e4d4d5c7228f0b8024be6ea3ae2cb31974d4bba350a8",
         "dest": "nuget-sources",
-        "dest-filename": "sixlabors.imagesharp.2.1.7.nupkg"
+        "dest-filename": "sixlabors.imagesharp.2.1.8.nupkg"
     },
     {
         "type": "file",
