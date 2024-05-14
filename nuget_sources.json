@@ -764,10 +764,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/svg.model/1.0.0.16/svg.model.1.0.0.16.nupkg",
-        "sha512": "bb307a15b443c68db3ae3dfc9d7381bcd7b98408f5e866754a2a67d5d21fb5099a6a56b6485cdc07c04bcd2f960a8b9b37a2d012e3140b4b3ad760b184059e40",
+        "url": "https://api.nuget.org/v3-flatcontainer/svg.model/1.0.0.18/svg.model.1.0.0.18.nupkg",
+        "sha512": "e6a6024b744c8ed1f0a97d79e193c15068b411fdaf605336e6127343b5604eab4f122c52741dae2bdf814cdc1c8c33e6870fdc61cfb716d8bb1207c7b6858458",
         "dest": "nuget-sources",
-        "dest-filename": "svg.model.1.0.0.16.nupkg"
+        "dest-filename": "svg.model.1.0.0.18.nupkg"
     },
     {
         "type": "file",
@@ -890,10 +890,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.svg/11.0.0.16/avalonia.svg.11.0.0.16.nupkg",
-        "sha512": "0e6ff4b5deb61dcd28343f800880c5a0a3ccd93144a936c8a575d6e5427e22ebff1d896f33cc429bf4d61cafdc327b9c765ae3062cbb5dc22ff7008f6ff4236b",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.svg/11.0.0.18/avalonia.svg.11.0.0.18.nupkg",
+        "sha512": "42bcbf8aeb44ab7387478ebe73510207a9690f942c46240faf6b78f2e40d160ad0916afa357b771c9e62efd6a19c0b27bba0eeb9c459634137c9edf1978a3df3",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.svg.11.0.0.16.nupkg"
+        "dest-filename": "avalonia.svg.11.0.0.18.nupkg"
     },
     {
         "type": "file",
@@ -1170,10 +1170,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/svg.custom/1.0.0.16/svg.custom.1.0.0.16.nupkg",
-        "sha512": "782547cd07d4ad37cc4ffd45694764cf314b8cf32d80f94318928ff1a9378442800550ebdd1023e3e604d3779973119766b3bd5f5018a053804195d295d21b92",
+        "url": "https://api.nuget.org/v3-flatcontainer/svg.custom/1.0.0.18/svg.custom.1.0.0.18.nupkg",
+        "sha512": "2fc6f4bb4c16cb5e878335f8dcdf661cca8b69d2304d9a121922a6898ef7a5abea425bc1c80a87f8f150ab1b0f09b1a4c7dc89784df522f21aab0313d414721e",
         "dest": "nuget-sources",
-        "dest-filename": "svg.custom.1.0.0.16.nupkg"
+        "dest-filename": "svg.custom.1.0.0.18.nupkg"
     },
     {
         "type": "file",
@@ -1303,10 +1303,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/svg.skia/1.0.0.16/svg.skia.1.0.0.16.nupkg",
-        "sha512": "e63bb797286e6716205847cad4234352060b8f82464b443a5d7ae1d88e500441010a682ebc66519cf63b565243cfb5aad73d6ed500b8b089092fa915bd44c336",
+        "url": "https://api.nuget.org/v3-flatcontainer/svg.skia/1.0.0.18/svg.skia.1.0.0.18.nupkg",
+        "sha512": "a8b13fd29d71f5acd0ce6738e40a090d3dd9a4066c99136bff7eac0293d8856562729b996f4c1f39873b434bed801d39ad2cb95ceae48cb1bad10b2eb3226dcc",
         "dest": "nuget-sources",
-        "dest-filename": "svg.skia.1.0.0.16.nupkg"
+        "dest-filename": "svg.skia.1.0.0.18.nupkg"
     },
     {
         "type": "file",
@@ -1506,10 +1506,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/shimskiasharp/1.0.0.16/shimskiasharp.1.0.0.16.nupkg",
-        "sha512": "96a00a43235f11fb4695b615e204a147eadc0427ff6ae6c4ab02d31fe32969d1181e63a7ace83ebfcfc7e92e81073b9ee4b8f5c5e535f08657e3993e71d7a820",
+        "url": "https://api.nuget.org/v3-flatcontainer/shimskiasharp/1.0.0.18/shimskiasharp.1.0.0.18.nupkg",
+        "sha512": "b026f6a56ff5b331982c48a8b44b1b0d4926206d7db3e74d634ad961a4d4107c36b0274f4dd304c207e727ef1d61645dbe3caa114b405769e23db4544e417377",
         "dest": "nuget-sources",
-        "dest-filename": "shimskiasharp.1.0.0.16.nupkg"
+        "dest-filename": "shimskiasharp.1.0.0.18.nupkg"
     },
     {
         "type": "file",
@@ -1716,10 +1716,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.svg.skia/11.0.0.16/avalonia.svg.skia.11.0.0.16.nupkg",
-        "sha512": "1a7a9d99110e3b409bfe1579355a525271060054388f27a32ebfc7ae7ed100b7e580d9c62f52ed8297276682e573d6d4367d41fd7d40b640b9310383b46d8039",
+        "url": "https://api.nuget.org/v3-flatcontainer/avalonia.svg.skia/11.0.0.18/avalonia.svg.skia.11.0.0.18.nupkg",
+        "sha512": "353cf22e8b9b2d750861703843af211f883eec1996750df7b841c537e0dbc66f3cd3ab188ca22153053b8f4bc93e3aeef99bf575a398534553eec17b435e66de",
         "dest": "nuget-sources",
-        "dest-filename": "avalonia.svg.skia.11.0.0.16.nupkg"
+        "dest-filename": "avalonia.svg.skia.11.0.0.18.nupkg"
     },
     {
         "type": "file",
