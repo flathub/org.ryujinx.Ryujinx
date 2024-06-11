@@ -71,8 +71,8 @@ modules:
         only-arches:
           - x86_64
         dest: dotnet-sdk
-        url: https://dotnetcli.azureedge.net/dotnet/Sdk/8.0.301/dotnet-sdk-8.0.301-linux-x64.tar.gz
-        sha256: d237cf0e8865f51eb9634df32a8bcfb1dd95dac95c0d16b5d599df867ab16c27
+        url: https://dotnetcli.azureedge.net/dotnet/Sdk/8.0.302/dotnet-sdk-8.0.302-linux-x64.tar.gz
+        sha256: 8c84340e7bbbe478463debb9230e18d5b1a94583c2ebc04eb28a39a232b37f55
         x-checker-data:
           type: rotating-url
           url: https://aka.ms/dotnet/8.0/dotnet-sdk-linux-x64.tar.gz
@@ -81,8 +81,8 @@ modules:
         only-arches:
           - aarch64
         dest: dotnet-sdk
-        url: https://dotnetcli.azureedge.net/dotnet/Sdk/8.0.301/dotnet-sdk-8.0.301-linux-arm64.tar.gz
-        sha256: 0e90d60a1759567fcfaf9b9efd1734603493a6ad562e40620e1d2df8ab120f8c
+        url: https://dotnetcli.azureedge.net/dotnet/Sdk/8.0.302/dotnet-sdk-8.0.302-linux-arm64.tar.gz
+        sha256: 8cc5b1216e0ef019199bbe5907cbe24d6110a6fd4c836c6892349a4532184337
         x-checker-data:
           type: rotating-url
           url: https://aka.ms/dotnet/8.0/dotnet-sdk-linux-arm64.tar.gz
