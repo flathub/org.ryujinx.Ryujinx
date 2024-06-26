@@ -211,13 +211,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.aspnetcore.app.ref/8.0.6/microsoft.aspnetcore.app.ref.8.0.6.nupkg",
-        "sha512": "1c294845cda71441825ad4ed70d7bd9e4155a7a389c45ac3f2f08407872716fe077531ccc5b783552cefb729b9f111837ad671655b792bc03ec0d6cb7db796e8",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.aspnetcore.app.ref.8.0.6.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/runtime.any.system.runtime/4.3.0/runtime.any.system.runtime.4.3.0.nupkg",
         "sha512": "bfee3c68312296860e5459af5e770c2e9fcd4ac134361fd569a9ce1e6574b9ae3978aad403f89639a4b5bac8ee5bb0ee1b8edb819e9a60f13ca5bd1812889bbd",
         "dest": "nuget-sources",
@@ -1044,24 +1037,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.host.linux-x64/8.0.6/microsoft.netcore.app.host.linux-x64.8.0.6.nupkg",
-        "sha512": "a18db7c3d7771d7e63a434fd484aede7525e4e96de13a32242c167ab748af9c5c16d3432c0661b2509c712f16810f0c287ec4c7a9f5b575de5015a0995c967c7",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.host.linux-x64.8.0.6.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/system.management/8.0.0/system.management.8.0.0.nupkg",
         "sha512": "a0491f0b442496e4274e6c18da87c8e31f471f4af908b45fd000fb9b58e1760c49b4232b0df9f0ce9e569fea2de968f0b2cc54cf7c53d6e67b46156fb100e9df",
         "dest": "nuget-sources",
         "dest-filename": "system.management.8.0.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.app.ref/8.0.6/microsoft.netcore.app.ref.8.0.6.nupkg",
-        "sha512": "35771d9c37bcc0c5bd60474cbf4572f7665af0fef6c880d74b73408d693d498c8c8b086424b955b0eacf04df437df0f6a2a8d2c1c098273a788cb929da88dcd5",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.app.ref.8.0.6.nupkg"
     },
     {
         "type": "file",
