@@ -470,10 +470,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.reactive/6.0.0/system.reactive.6.0.0.nupkg",
-        "sha512": "9303ea0efe2b4b1782bbeb87ce88469e7dbde14ad441f153d2d79a518f7fe8aec76f6407d69b726a0383f1f272232c833fd79421f7ba56dfda110f45deb48b72",
+        "url": "https://api.nuget.org/v3-flatcontainer/system.reactive/6.0.1/system.reactive.6.0.1.nupkg",
+        "sha512": "5b7af637b4a167f66a29cb96f3339bc8bb1f1cd279b5cb5ff9579d8a56e8e6747c6231580a83e8c905999e82586c01fde00f2f4f3826cb0c11d2933a074977f4",
         "dest": "nuget-sources",
-        "dest-filename": "system.reactive.6.0.0.nupkg"
+        "dest-filename": "system.reactive.6.0.1.nupkg"
     },
     {
         "type": "file",
@@ -603,10 +603,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/dynamicdata/8.4.1/dynamicdata.8.4.1.nupkg",
-        "sha512": "e5c76134ffbc36bf9a90b5b33091c324c65686726d3aaf22810d73ffdd26dc8a34d1b0dd96f18d17f15efe09236b3125b6979cc783062ac82559a50d1798f3de",
+        "url": "https://api.nuget.org/v3-flatcontainer/dynamicdata/9.0.1/dynamicdata.9.0.1.nupkg",
+        "sha512": "804c2dd53cb2eed5f019e18d7eed715859411c0da29f79f11e5c224fcd92c4bb1be96705b7b4681a831ce9ab323d4f0ea99d7282d6009553a9ed85115234d3fa",
         "dest": "nuget-sources",
-        "dest-filename": "dynamicdata.8.4.1.nupkg"
+        "dest-filename": "dynamicdata.9.0.1.nupkg"
     },
     {
         "type": "file",
