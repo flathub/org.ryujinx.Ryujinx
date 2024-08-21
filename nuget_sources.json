@@ -610,10 +610,10 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/dynamicdata/9.0.1/dynamicdata.9.0.1.nupkg",
-        "sha512": "804c2dd53cb2eed5f019e18d7eed715859411c0da29f79f11e5c224fcd92c4bb1be96705b7b4681a831ce9ab323d4f0ea99d7282d6009553a9ed85115234d3fa",
+        "url": "https://api.nuget.org/v3-flatcontainer/dynamicdata/9.0.4/dynamicdata.9.0.4.nupkg",
+        "sha512": "bdfa49e44545e06f6435a29423a05c67f9b004f51a3c2dff376e9de49099da068add76f9496f95171a35b24323de31e7ab2abde8e748d5fa770d6fd01bff7ed0",
         "dest": "nuget-sources",
-        "dest-filename": "dynamicdata.9.0.1.nupkg"
+        "dest-filename": "dynamicdata.9.0.4.nupkg"
     },
     {
         "type": "file",
