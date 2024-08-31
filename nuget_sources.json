@@ -295,13 +295,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sixlabors.imagesharp/2.1.9/sixlabors.imagesharp.2.1.9.nupkg",
-        "sha512": "1095ae7b4c8ff8b44582dc768da88c0310317ec5ae8dc8ac978d3647920ed2e4ca819b7ba538196dbb79fea22099c26df78a4d6db4928c06cbe36bb67504c90b",
-        "dest": "nuget-sources",
-        "dest-filename": "sixlabors.imagesharp.2.1.9.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/microcom.codegenerator.msbuild/0.11.0/microcom.codegenerator.msbuild.0.11.0.nupkg",
         "sha512": "306273b66985282c3bba448214a18f33a9df3e478366fc668b64e13d0c36fe91deca178d7b36ff185c5981d41a81423d5365b7c80ccc46e6719e2ea532d2622d",
         "dest": "nuget-sources",
@@ -341,13 +334,6 @@
         "sha512": "e6a6024b744c8ed1f0a97d79e193c15068b411fdaf605336e6127343b5604eab4f122c52741dae2bdf814cdc1c8c33e6870fdc61cfb716d8bb1207c7b6858458",
         "dest": "nuget-sources",
         "dest-filename": "svg.model.1.0.0.18.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sixlabors.imagesharp.drawing/1.0.0/sixlabors.imagesharp.drawing.1.0.0.nupkg",
-        "sha512": "aaa93e7fce031cd969e6cda4ded839da7aa27508f168837c08e7324d23f31be0543485209114b3ca129852194bb20a1e7564497822f28fe1f200459ee51acc36",
-        "dest": "nuget-sources",
-        "dest-filename": "sixlabors.imagesharp.drawing.1.0.0.nupkg"
     },
     {
         "type": "file",
@@ -565,13 +551,6 @@
         "sha512": "0827f83639833a88ac7bb1408a3d953ee1c880a2acbbaf7abe44f084e90f5507cbb13981d962c57d0e3278ee5476d93c143eb7e9404cc7a63d7a8bf324a4fbe8",
         "dest": "nuget-sources",
         "dest-filename": "microsoft.netcore.platforms.2.0.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/microsoft.netcore.platforms/5.0.0/microsoft.netcore.platforms.5.0.0.nupkg",
-        "sha512": "8493fe11648c7ecc20b6530490d30fd63744961345c0501a7a10b11046661da09b783ddceb8b3208ae52a72a8a94cafdce8dc1bd6073c32081e30d0e7407f174",
-        "dest": "nuget-sources",
-        "dest-filename": "microsoft.netcore.platforms.5.0.0.nupkg"
     },
     {
         "type": "file",
@@ -848,13 +827,6 @@
     },
     {
         "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/sixlabors.fonts/1.0.0/sixlabors.fonts.1.0.0.nupkg",
-        "sha512": "cbd960c1bb91bde6b20068b4b269bc7a11710bb0975884e157ef2cbddda6a9ade5a6c44232e01203b49a09fec669f72dac01baf12fe507f7fbb58ded8ae613b2",
-        "dest": "nuget-sources",
-        "dest-filename": "sixlabors.fonts.1.0.0.nupkg"
-    },
-    {
-        "type": "file",
         "url": "https://api.nuget.org/v3-flatcontainer/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl/4.3.0/runtime.fedora.24-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg",
         "sha512": "4afac5cc1734330a6103880e790d639e825bfb1b34dbd42083762c47db5e5dab6c03efd16049ac03861d7d87746caed09c7534241d51b7341d47ba6af7e8dd31",
         "dest": "nuget-sources",
@@ -985,13 +957,6 @@
         "sha512": "2325b67ed60dce0302807064f25422cbe1b7fb275b539b44fba3c4a8ce4926f21d78529a5c34b31c03d80d110f7bace9af9589d457266beac014220057af8333",
         "dest": "nuget-sources",
         "dest-filename": "system.reflection.4.3.0.nupkg"
-    },
-    {
-        "type": "file",
-        "url": "https://api.nuget.org/v3-flatcontainer/system.text.encoding.codepages/5.0.0/system.text.encoding.codepages.5.0.0.nupkg",
-        "sha512": "4f32c801b3dc8b3d287c17310e8eaecbb7d3d0e311e39e1c428439fea7276860febc38422a61abc93d3cbbcd97bf511835b316553e931e04f6333a80629dc746",
-        "dest": "nuget-sources",
-        "dest-filename": "system.text.encoding.codepages.5.0.0.nupkg"
     },
     {
         "type": "file",
