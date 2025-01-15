@@ -1,10 +1,10 @@
 app-id: org.ryujinx.Ryujinx
 runtime: org.freedesktop.Platform
-runtime-version: '23.08'
+runtime-version: '24.08'
 sdk: org.freedesktop.Sdk
 add-extensions:
   org.freedesktop.Platform.ffmpeg-full:
-    version: '23.08'
+    version: '24.08'
     directory: lib/ffmpeg
     add-ld-path: .
 finish-args:
@@ -89,7 +89,7 @@ modules:
       pattern: https://dotnetcli.azureedge.net/dotnet/Sdk/^([\d\.a-z-]+)$/dotnet-sdk-^([\d\.a-z-]+)$-linux-arm64.tar.gz
   - nuget_sources.json
   - type: git
-    url: https://github.com/Ryujinx/Ryujinx.git
+    url: https://github.com/ryujinx-mirror/Ryujinx.git
     commit: a2c003501371463fd1f98d2e5a7602ae19c21d7c
   - type: file
     path: ryujinx-wrapper
