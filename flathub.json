@@ -1,4 +1,5 @@
 {
-    "only-arches": ["x86_64", "aarch64"]
-    "end-of-life": "This application is no longer maintained."
+    "only-arches": ["x86_64", "aarch64"],
+    "end-of-life": "This application is no longer maintained.",
+    "disable-external-data-checker": true
 }
